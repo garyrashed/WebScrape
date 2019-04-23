@@ -1,0 +1,85 @@
+import scrapy
+
+
+class LoopNetSpider(scrapy.Spider):
+    name = 'loopNet'
+    start_urls = ['https://www.loopnet.com/new-jersey/allendale-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/alpine-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/bergenfield-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/bogota-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/carlstadt-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/cliffside-park-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/closter-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/cresskill-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/demarest-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/dumont-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/east-rutherford-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/edgewater-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/elmwood-park-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/emerson-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/englewood-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/englewood-cliffs-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/fair-lawn-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/fairview-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/fort-lee-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/franklin-lakes-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/garfield-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/glen-rock-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/hackensack-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/harrington-park-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/hasbrouck-heights-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/haworth-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/hillsdale-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/ho-ho-kus-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/leonia-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/little-ferry-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/lodi-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/lyndhurst-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/mahwah-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/maywood-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/midland-park-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/montvale-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/moonachie-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/new-milford-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/north-arlington-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/northvale-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/norwood-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/oakland-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/old-tappan-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/oradell-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/palisades-park-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/paramus-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/park-ridge-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/ramsey-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/ridgefield-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/ridgefield-park-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/ridgewood-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/river-edge-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/river-vale-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/rochelle-park-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/rockleigh-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/rutherford-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/saddle-brook-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/saddle-river-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/south-hackensack-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/teaneck-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/tenafly-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/teterboro-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/upper-saddle-river-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/waldwick-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/wallington-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/washington-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/westwood-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/wood-ridge-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/woodcliff-lake-commercial-real-estate',
+                    'https://www.loopnet.com/new-jersey/wyckoff-commercial-real-estate']
+
+
+    def parse(self, response):
+        pages = response.xpath("//div[@class='searchPaging']/span/a[last()]/text()").get()
+
+        if(pages == None):
+            pages = 0
+
+        units = response.xpath("//div[contains(@class, 'listingContainer clearfix)]")
+        print("Page: {0}, {1} scrunits".format(response.url, len(units)))

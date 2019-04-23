@@ -1,0 +1,2861 @@
+<!DOCTYPE html>
+<html class="">
+<head>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Hackensack, NJ Commercial Real Estate for Sale and Lease - LoopNet.com</title>
+
+      <!-- Detection only works up to IE9. IE 10+ does not see these comments -->
+      <!--[if IE ]><script>document.documentElement.className+=' ie ';</script><![endif]-->
+      <!--[if lte IE 8 ]><script>document.documentElement.className+=' oldIE ';</script><![endif]-->
+      <!--[if IE 7 ]><script>document.documentElement.className+=' ie7 ';</script><![endif]-->
+      <!--[if IE 8 ]><script>document.documentElement.className+=' ie8 ';</script><![endif]-->
+      <!--[if IE 9 ]><script>document.documentElement.className+=' ie9 ';</script><![endif]-->
+      
+<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="Description" content="Hackensack, New Jersey commercial real estate for sale and lease on LoopNet.com.  Find Hackensack MLS listings.  Get Hackensack recent sales comparables, Hackensack commercial real estate news, commercial real estate loans and more at LoopNet.com.">
+    <meta property="og:description" content="Hackensack, New Jersey commercial real estate for sale and lease on LoopNet.com.  Find Hackensack MLS listings.  Get Hackensack recent sales comparables, Hackensack commercial real estate news, commercial real estate loans and more at LoopNet.com.">
+<meta name="Keywords" content="Hackensack New Jersey commercial real estate, Hackensack commercial properties, Hackensack commercialrealestate, Hackensack commercialproperty, Hackensack retail space, Hackensack office space, Hackensack multifamily apartments, Hackensack land for sale, Hackensack New Jersey MLS">
+<meta name="X-GATrack" content="/tracking/city/new-jersey/hackensack-commercial-real-estate/">
+
+<link rel="next" href="https://www.loopnet.com/new-jersey/hackensack-commercial-real-estate/2/">
+    <link rel="canonical" href="https://www.loopnet.com/new-jersey/hackensack-commercial-real-estate/">
+<meta name="vs_defaultClientScript" content="JavaScript">
+<link href="/bundles/global.bundle.css" type="text/css" rel="stylesheet">
+    <link href="/xnet/mainsite/styles/global.scss.css" rel="stylesheet">
+<link href="/xnet/Mainsite/Styles/UniversalSuggest.css" type="text/css" rel="stylesheet">
+<link href="/xnet/Mainsite/Styles/paging.css" type="text/css" rel="stylesheet">
+<link rel="stylesheet" href="/xnet/mainsite/styles/search/quickSearch.scss.css" type="text/css" media="all" charset="utf-8">
+    <link href="/xNet/MainSite/Styles/Common/breadcrumbs.css" type="text/css" rel="stylesheet">
+<link href="/xnet/Mainsite/Styles/SEO.css" type="text/css" rel="stylesheet">
+<link href="/xnet/Mainsite/Styles/SEOContent.css" type="text/css" rel="stylesheet">
+<link href="/xNet/MainSite/Styles/Overlays/olLegacyFix.css" type="text/css" rel="stylesheet">
+<link href="/xNet/MainSite/Styles/Overlays/olLight.css" type="text/css" rel="stylesheet">
+<link href="/xNet/MainSite/Styles/Overlays/olBrokerAd.css" type="text/css" rel="stylesheet">
+<link href="/xnet/Mainsite/Styles/video/videoIndicator.css" type="text/css" rel="stylesheet">
+<link href="/xnet/Mainsite/Styles/seo/HeaderNavMobile.scss.css" type="text/css" rel="stylesheet">
+
+		<style type="text/css">
+		.searchPaging {
+			float: none;
+			width: 100%;
+			color: #000000;
+			text-align: left;
+			padding: 5px 0 0 5px;
+			margin: 0px;
+		}
+
+		.searchPaging span {
+			vertical-align: middle;
+			margin: 0 2px 0 6px;
+		}
+
+		.searchPaging span.pagingEllipses {
+			margin: 0;
+		}
+
+		.searchPagingButton {
+			position: relative;
+			top: 0px;
+			left: 0px;
+			vertical-align: middle;
+		}
+
+		.resultsSorting{
+			position: relative;
+			float: left;
+			padding: 1px 2px 0 0;
+	  }
+
+  .sortDropdown{
+	  background:white;
+	  display: block;
+	  padding:10px 10px 0 10px;
+	  border-radius:1px;
+	  border:1px solid #d5d0d4;
+	  box-shadow:1px 1px 1px rgba(0,0,0,.2);
+	  position: absolute;
+	  top: 18px;
+	  right:0px;
+	  max-height:500px;
+	  overflow-y:auto;
+	  width:200px;
+	  overflow-x:hidden;
+	   -webkit-overflow-scrolling: touch;
+  }
+  @media (max-device-width : 1024px)
+  {
+	  .sortDropdown{
+		  max-height:300px;
+		  overflow-y:scroll;
+	  }
+  }
+
+  .sortDropdown li{
+	  float: none;
+	  padding:0 0 10px 15px;
+  }
+  .sortDropdown .selected {
+      background-image: url("/xnet/mainsite/images/icons/sprites/iconsGlobal.png");
+      background-position: 0 0;
+      background-repeat: no-repeat;
+      background-position: 0 -3117px;
+  }
+  .sortDropdown .selected a {
+		  font-weight: bold;
+  }
+	.sortDropdown li a {
+		color:#191919;
+		font-size:12px;
+ }
+
+    /* for fixing IE styling */
+    textarea { overflow: auto; }
+
+
+    .main-header {
+      height: 57px;
+    }
+
+    .main-header .nav-content {
+      padding: 5px;
+    }
+
+    .main-header .logo-main {
+      top: 9px;
+      width: 170px;
+    }
+
+    .main-header .logo-main img {
+      width: 100%;
+      height: auto;
+    }
+
+    .primary-actions-option.button.add-listing.dropdown-toggle {
+      background-color: transparent;
+      font-size: 0.9rem;
+      color: #cf0000;
+      padding: 8px 16px;
+      border-radius: 3px;
+    }
+  
+    .main-header .drop-down {
+      top: 70px;
+    }
+
+    .dropdown-secondary ul.dropdown-secondary-content {
+      padding: 0;
+    }
+
+    .dropdown-secondary ul.dropdown-secondary-content.first {
+      margin: 0 0 10px 0;
+    }
+
+    .dropdown-secondary.close ul.dropdown-secondary-content {
+      display: none;
+    }
+
+    .dropdown-secondary.open ul.dropdown-secondary-content {
+      display: block;
+    }
+
+		</style>
+    
+  
+      
+<!-- begin GPT header tag -->
+<script type="text/javascript">
+    (function () {
+    console.log('executing synchronous load of gpt.');
+        var useSSL = 'https:' == document.location.protocol;
+        var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        document.write("<script src='" + src + "'><\/script>");
+    })();
+</script>
+<!-- End GPT header tag -->
+<iframe id="dfp-event-frame" style="display: none" src=""></iframe>
+      
+    
+<link href="/xNet/MainSite/styles/adPlatform/adConfig.css" type="text/css" rel="stylesheet">
+
+<link href="/xNet/MainSite/styles/seo/searchResponsive.scss.css" type="text/css" rel="stylesheet">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="/xNet/Mainsite/Scripts/ThirdParty/Modernizr/modernizr.custom.39512.js"></script>
+<script type="text/javascript" src="/xNet/Mainsite/Scripts/jquery/jquery-ui-1.10.3.js"></script>
+<script type="text/javascript" src="/xNet/Mainsite/Scripts/jquery/plugins/util.js"></script>
+<script type="text/javascript" src="/xNet/Mainsite/Scripts/SEO/LNSEO.js"></script>
+<script type="text/javascript" src="/xNet/Mainsite/Scripts/SEO/searchResponsive.js"></script>
+<script type="text/javascript" src="/xNet/Mainsite/Scripts/ga_social_tracking.js"></script>
+<script type="text/javascript">
+      if(this.jQuery)jQuery.noConflict();
+      var sContentProviderUrl = 'https://images.loopnet.com';var PageExecutionGuid = 'ed4a5400-5436-4a7a-84d4-650f0e9bb011';
+      var LN_SEOSortKey = '';
+      var LN_SEOCatID = 0;
+      var LN_SEOListingType = 0;
+      var LN_CatListFS = [{"Key":"Industrial","Value":1},{"Key":"Retail","Value":2},{"Key":"Shopping Center ","Value":4},{"Key":"Multifamily","Value":8},{"Key":"Specialty","Value":16},{"Key":"Office","Value":32},{"Key":"Health Care","Value":64},{"Key":"Hospitality","Value":128},{"Key":"Sports \u0026 Entertainment","Value":256},{"Key":"Land","Value":512},{"Key":"Residential Income","Value":1024}];
+      var LN_CatListFL = [{"Key":"Office","Value":8},{"Key":"Executive Suite","Value":4096},{"Key":"Industrial","Value":2},{"Key":"Retail","Value":16},{"Key":"Restaurant","Value":8192},{"Key":"Flex","Value":32},{"Key":"Medical","Value":512},{"Key":"Land","Value":4}];
+
+      LN_UD={ci:-2147483648,fn:"",ln:"",pg:PageExecutionGuid,sg:"",sid:0,ai:"",si:"",f:0,c:""};
+      LN_EC={je:0,ad:1,ac:2,lr:3,di:4,dm:5,nf:6,d:7,ue:8,ab:9};
+      LN_FBID = 1532946320337463;
+
+    </script>
+<script type="text/javascript" src="/xNet/Mainsite/Scripts/Core/Core.js"></script>
+<script type="text/javascript" src="/xNet/MainSite/Scripts/RemoteScripting.js"></script>
+<script type="text/javascript" src="/xNet/MainSite/Scripts/Core/ajax.js"></script>
+<script type="text/javascript" src="/includes/incGlobalJavascript.js"></script>
+<script type="text/javascript" src="/includes/seoContent.js"></script>
+<script type="text/javascript" src="/xnet/mainsite/scripts/seo/SocialSharing.js"></script>
+<script type="text/javascript" src="/xNet/MainSite/Scripts/RemoteUniversalSuggest.js"></script>
+<script type="text/javascript">
+      function InPagePropertyRecordPropertyInsightViewPlansPricing() {
+      var sRedirectURL = '/propertyrecords/?LinkCode=26640&FromSEO=Y';
+
+      try{aObj.href = "javascript:DoNothing()";}catch(HrefEx){}
+      InpagePopupLogin("","","/images/titles/openLease/loginToViewPlansAndPricing.gif","/images/buttons/btn_continue_blue.gif","/images/titles/openLease/loginToViewPlansAndPricing.gif",sRedirectURL,'true');
+      }
+    </script>
+<script type="text/javascript" src="/xNet/MainSite/Scripts/jquery/plugins/logging.js"></script><script type="text/javascript" src="/xNet/MainSite/Scripts/jquery/plugins/pubsub.js"></script><script type="text/javascript" src="/xNet/MainSite/Scripts/jquery/plugins/ajaxsetup.js"></script><script type="text/javascript" src="/xNet/MainSite/Scripts/Ads/DoubleClick.js"></script><script type="text/javascript" src="/xNet/MainSite/Scripts/Ads/postMessage.js"></script><script type="text/javascript" src="/xNet/MainSite/Scripts/Ads/AdUtil.js?cb=w.2.3.0"></script>
+<script type="text/javascript" src="/xNet/Mainsite/Scripts/SEO/Breadcrumb.js"></script><script type="text/javascript" src="/xNet/Mainsite/Scripts/SEO/Sorter.js"></script>
+
+<!-- Server: LN01WEBXPRD509 --><script type="text/javascript">window.TrackerAccount='UA-31346-1';window.GtmContainer='GTM-PVVJLB';</script><script src="/xNet/MainSite/Scripts/tracker.js?ver=1"></script><script src="/xNet/MainSite/Scripts/gtm.js?ver=1"></script>
+</head>
+
+<body class="ruledpage wideheader">
+<div class="overlayContainer" id="overlayContainer" style="display: none; #height: 600px; #width: 100%; #margin: -40px 0 0 0;">
+      <div class="overlayScreen"></div>
+    </div>
+<div id="seoContactAdvertiserContainer"></div>
+<script type="text/javascript" src="/xNet/MainSite/Scripts/Ads/ContactAdvertiser.js?cb=w.2.3.0"></script>
+<script type="text/javascript">
+          // todo
+          var ContactAdvertiserContainerID = 'seoContactAdvertiserContainer';
+          var EmailServiceURL = 'http://marketplace.loopnet.com' + '/adbroker/api/leadgen/SendMessage';
+          var PostMsgIFrameSrc = 'http://marketplace.loopnet.com' + '/ClientProxy';
+
+          jQuery( document ).ready(function( $ ) {
+          var userEmailDlg = ContactAdvertiserContainerID + '_UserEmailDlg';
+          var confirmationDlg = ContactAdvertiserContainerID + '_ConfirmationDlg';
+
+          var contactAdvertiserContainer = $('#' + ContactAdvertiserContainerID);
+          if($.fn.lnContactAdvertiser) {
+          contactAdvertiserContainer.lnContactAdvertiser({
+          userEmailDlg: userEmailDlg,
+          confirmationDlg: confirmationDlg,
+          overlay: 'overlayContainer',
+          emailSvcURL: EmailServiceURL,
+          adClickEvent: window.LABEL_ADBROKER_CLICKEVENT,
+          adViewEvent: window.LABEL_ADBROKER_VIEWEVENT,
+          postMsgIFrame: 'ContactAdvertiser_iframe',
+          postMsgIFrameContainer: 'ContactAdvertiser_IFrame_Container',
+          postMsgIFrameSrc: PostMsgIFrameSrc,
+          successConfirmationMsg: 'Your message has been sent to the featured local broker.',
+          failedConfirmationMsg: 'Oops! It appears that there\'s a network issue. Please try again.',
+          onClickActionCode: 2152,
+          onSendActionCode: 2153
+          });
+          }
+          
+          $(document).bind(window.LABEL_ADBROKER_VIEWEVENT, function (e, data) { handleAdViewed(data); });
+          function handleAdViewed(e) {
+            try {
+              $.lnadutil.adContext(e, 'seo').logView();
+            } catch (ex) {
+              console.info('invalid handle ad viewed event argument: ', e);
+            }
+          }
+          });
+        </script><script type="text/javascript" src="/xNet/MainSite/Scripts/SEO/placeholder-1.1.1.js"></script><script type="text/javascript">
+          jQuery( document ).ready(function( $ ) {
+            var NATIVE_SUPPORT = (function() {
+              return 'placeholder' in document.createElement('input');
+            })();
+            if (NATIVE_SUPPORT) {
+              return;
+            }
+            Placeholder.init({
+              wait: true
+            });
+          });
+        </script><script>googletag.defineSlot('/4739/SEO_Pages', [640, 108], 'SEO-Pages')
+.addService(googletag.pubads())
+.setCollapseEmptyDiv(true, false)
+.setTargeting("pt", [5,2,6,11,3])
+.setTargeting("s", ["NJ"])
+.setTargeting("sl", "BOTH")
+googletag.defineSlot('/4739/ln.d.local.rightrail', [132, 650], 'local-rightrail')
+.addService(googletag.pubads())
+.setCollapseEmptyDiv(true, false)
+.setTargeting("at", [1,2,3,4,5])
+.setTargeting("pk", [90,80,100,110])
+.setTargeting("qa", "N")
+.setTargeting("ls", [0,5])
+.setTargeting("sp", [0, 2.5])
+.setTargeting("zp", [07601]);
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+</script>
+<form name="Form1" id="Form1" method="post" action="">
+<header class="main-header default " id="pageHeader"><div class="dropdown-overlay hide"></div><nav class="main-navigation "><div class="nav-content">
+            <div id="logo-main" class="logo-main"><a href="/" title="LoopNet - Connecting Commercial Real Estate™"><img src="/xNet/MainSite/Images/logos/header/header-logo-loopnet.svg" alt="LoopNet"></a></div>
+            <ul class="login-section">
+              <li><a href="/auth/signin?LinkCode=530">Sign in</a></li>
+              <li class="headerAddListing dropdown"><a href="#" class="primary-actions-option button add-listing dropdown-toggle">
+                                  Add a Listing
+                              </a><ul class="drop-down headerAddListing hide" id="dropdown-secondary"><span class="dropdown-secondary close"><li class="dropdown-secondary-toggle dropdown-secondary-heading"><a href="#" class="button primary punchout">For Sale</a></li>
+                    <ul class="forsale-expanded dropdown-secondary-content first" id="forsale-expanded">
+                      <li class="first"><a href="#" onclick="window.location.href = urlLM + '/listing/create/for-sale/'">Building</a></li>
+                      <li><a href="#" onclick="window.location.href = urlLM + '/listing/create/for-sale-condo/'">Condo</a></li>
+                      <li><a href="#" onclick="window.location.href = urlLM + '/listing/create/land-for-sale/'">Land</a></li>
+                      <li><a href="#" onclick="window.location.href = urlLM + '/listing/create/portfolio-sale/'">Portfolio</a></li>
+                      <li class="last"><a href="#" onclick="window.location.href = urlLM + '/listing/create/business-for-sale/'">Business</a></li>
+                    </ul></span><span class="dropdown-secondary close"><li class="dropdown-secondary-toggle dropdown-secondary-heading"><a href="#" class="button primary punchout last">For Lease</a></li>
+                    <ul class="forlease-expanded last dropdown-secondary-content" id="forlease-expanded">
+                      <li><a href="#" onclick="window.location.href = urlLM + '/listing/create/for-lease/'">Building or Condo</a></li>
+                      <li><a href="#" onclick="window.location.href = urlLM + '/listing/create/land-for-lease/'">Land</a></li>
+                    </ul></span></ul>
+              </li>
+            </ul>
+          </div></nav></header><div class="SEOHeader clearfix">
+        <div class="SEOMeta">
+          <h1><span id="Top_lblTitle">Hackensack, NJ Commercial Real Estate for Sale and Lease - LoopNet.com</span></h1>
+          <h2><span id="Top_lblSubTitle">Hackensack, NJ Commercial Real Estate for Sale and Lease | LoopNet.com</span></h2>
+        </div>
+        <div class="share-links-wrapper desktop">
+          <div class="social-links clearfix"><a href="javascript:void(0);" class="ln-icon-facebook"></a><a href="javascript:void(0);" class="ln-icon-linkedin"></a><a href="javascript:void(0);" class="ln-icon-twitter"></a></div>
+        </div>
+      </div>
+      <script type="text/javascript">var urlLM = "https://listingmanager.costar.com/";
+        var sanitized = urlLM.replace(/(\/#|\/|#)$/, '');
+        urlLM = sanitized;
+        </script>
+      
+      
+      
+<script type="text/javascript">
+
+    (function ($) {
+
+        $(document).ready(function () {
+
+            // Open Add Listing Dropdown
+            $(".button.add-listing").click(function () {
+                $('.drop-down').toggleClass('hide');
+                $('.dropdown-overlay').toggleClass('hide');
+            });
+
+            // Close Add Listing Dropdown
+            $('.dropdown-overlay').click(function () {
+                $('.drop-down').toggleClass('hide');
+                $('.dropdown-overlay').toggleClass('hide');
+            });
+
+            
+            // iOS / Android dropdown conversion
+            if (navigator.userAgent.match(/iP(hone|od|ad)/i)) {
+                jQuery('html').addClass('ios');
+            }
+
+            if (navigator.userAgent.match(/Android/)) {
+                jQuery('html').addClass('android');
+            }
+
+            //update user name from PDS//
+            /* $.ajax({
+                method: 'GET',
+                url: '/services/user/pdsProfile/<%=this.ActiveSiteUserDisplay.AssociateID%>'
+            }).done(function (data) {
+                var fName = data.FirstName + " " + data.LastName;
+                $('#Top1_spanUserName').html(fName);
+            }); */
+        })
+
+    })(jQuery)
+
+
+    // Select all the needed DOM elements
+    var item = document.querySelectorAll('.dropdown-secondary');
+    var heading = document.querySelectorAll('.dropdown-secondary-heading');
+
+    // If a heading is clicked, then run the toggleItem function
+    for (i = 0; i < heading.length; i++) {
+        heading[i].addEventListener('click', toggleItem);
+    }
+
+    // toggleItem function
+    function toggleItem() {
+	
+	    // Closes all accordions 
+        var itemClass = this.parentNode.className;
+	
+	    // Counter to close every accordion
+        for (i = 0; i < item.length; i++) {
+          item[i].className = 'dropdown-secondary close';
+        }
+	
+	    // Opens the clicked accordion item
+        if (itemClass == 'dropdown-secondary close') {
+          this.parentNode.className = 'dropdown-secondary open';
+        }
+    }
+
+
+</script>
+      
+    <div class="maincontent clearfix"><!--SEO QuickSearch Visible Header-->
+        <div class="container quickSearchContainer seoQuickSearch seoLtBlue clearfix">
+          
+        <h2>Search for Hackensack Commercial Real Estate for Sale or Lease</h2><script type="text/javascript">
+          var activeTabSearchType = 'FS';
+          var activeOptionList = 'TabbedFSOptions';
+          var searchDisplayType = 'Tabbed';
+
+          var initialCategoryId = '0';
+          var initialLocation = 'Hackensack, NJ';
+          if (initialLocation == '') {initialLocation = 'Enter a location';}
+          var initialCategoryName = 'All properties for sale';
+        </script>
+        <!--Quick Search Control Begin-->
+		<link href="/xnet/mainsite/styles/search/quickSearch.scss.css" type="text/css" rel="Stylesheet" />
+        <link href="/xnet/mainsite/styles/ui.css" type="text/css" rel="Stylesheet" />
+        <script type="text/javascript" src="/xNet/Mainsite/Scripts/RemoteUniversalSuggest.js"></script>
+        <div id="quickSearch_divRoot" class="quickSearch tabbed clearfix">
+        
+		        <ul id="ulQuickSearchTabs" class="quickSearchTabs clearfix">
+                    <li><a id="tabFS" title="For Sale" onclick="toggleTabs(this,'selected','a','FS','TabbedFSOptions'); return false;" href="#" class="selected">For Sale</a></li>
+                    <li><a id="tabFL" title="For Lease" onclick="toggleTabs(this,'selected','a','FL','TabbedFLOptions'); return false;" href="#">For Lease</a></li>
+            </ul>
+          
+           
+		    <div class="quickSearchInput clearfix">
+			    <div class="typeSelectWrapper">
+
+                    <a href="javascript:UniversalQuickSearch.togglePropertyTypesFromLink();" id="aTabbedDropDown" class="typeSelect singleOption" title="All properties for sale" style="display: none;">All Property Types</a>
+				    <!-- Multi-Layered Dropdown -->
+
+                    <!-- Single Layered Dropdown -->
+
+                <ul id="TabbedFSOptions" class="singleDropdown" style="display: none;">
+				        </ul>
+                <ul id="TabbedFLOptions" class="singleDropdown" style="display: none;">
+				        </ul>
+			    </div>
+			    <div class="locationWrapper clearfix">
+				    <input type="text" autocomplete="off" name="Location" class="locationSelect clearfix" id="Location" placeholder="Enter a location" suggest="off" >
+				    <div  id="citySuggest" style=" display: none;" ></div>
+                    <div style="display: none;" class="searchSuggest" id="searchSuggest">
+					    <p>You may enter a US <span id="orCanadian">or Canadian</span> location in the following formats:</p>
+
+					    <ul>
+						    <li><span class="arrow right"></span>Address, City, State</li>
+						    <li><span class="arrow right"></span>Zip Code</li>
+						    <li><span class="arrow right"></span>City, State</li>
+						    <li><span class="arrow right"></span>State</li>
+					    </ul>
+
+				    </div>
+			    </div>
+				<a class="button large primary" title="Search" onclick="UniversalQuickSearch.DoSearch();LNSaveActionCode(1330);">Search</a>
+
+                <!-- Thin profile quicksearch button -->
+                <a class="button small white" title="Search" style="display: none;" onclick="UniversalQuickSearch.DoSearch();LNSaveActionCode(1330);">Search</a>
+		    </div>            
+	    </div>
+
+</div>
+		<!-- /QuickSearch -->
+<script type="text/javascript">
+    var FSCategories = ['70','80','40','90','110','50','10','60','100','30','130','120','140'];
+    var FLCategories = ['40','80','90','110','50','120'];
+    var RSCategories = ['70','80','40','90','110','50','10','60','100','30','130','120','140'];
+    var MPCategories = ['70','80','40','90','110','60','100','30','130','120','140','150'];
+    var quickSearchPRUpsellShown = false;
+    function showDrop(sId, sTypeId) {
+        if (document.getElementById(sTypeId).style.display == '') {
+            document.getElementById(sId).className = 'quickSearchType';
+            document.getElementById(sTypeId).style.display = 'none';
+        } else {
+            if (sId === 'quickSearchPRUpsell' && !quickSearchPRUpsellShown) {
+                LogActionCode(1598, PageExecutionGuid);
+                quickSearchPRUpsellShown = true;
+            }
+            document.getElementById(sId).className = 'quickSearchType quickSearchHover';
+            document.getElementById(sTypeId).style.display = '';
+        }
+    }
+    var UniversalQuickSearch = ({
+        DropDownID: 'aTabbedDropDown',
+        CategoryName: GetCatName(initialCategoryId,activeTabSearchType),
+        OptionsWrapperID: 'tabbedOptionsWrapper',
+        SearchType: activeTabSearchType,
+        CategoryID: initialCategoryId,
+        Location: initialLocation,
+        BlurString: 'Enter a location',
+        TempDontHide: false,
+        LocationInputField: $('Location'),
+        HelpSuggest: $('searchSuggest'),
+        HelpHover: false,
+
+        initialize: function () {
+
+            this.LocationInputField.value = this.Location;
+
+            if (this.Location == this.BlurString) {
+                this.LocationInputField.style.color = '#999';
+            }
+            else
+            {
+                this.LocationInputField.style.color = '#000000';
+            }
+
+            if (this.SearchType == "FL") {
+                if (searchDisplayType == 'Tabbed') {
+                    toggleTabs($('tabFL'), 'selected', 'a', this.SearchType, 'TabbedFLOptions');
+                }
+                else if (searchDisplayType == 'MultiLevel') {
+                    this.SelectPropertyType(this.CategoryName, this.CategoryID, this.SearchType);
+                }
+
+                $('orCanadian').innerHTML = ' or Canadian';
+            }
+            else if (this.SearchType == "FS") {
+                if (searchDisplayType == 'Tabbed') {
+                    toggleTabs($('tabFS'), 'selected', 'a', this.SearchType, 'TabbedFSOptions');
+                }
+                else if (searchDisplayType == 'MultiLevel') {
+                    this.SelectPropertyType(this.CategoryName, this.CategoryID, this.SearchType);
+                }
+
+                $('orCanadian').innerHTML = ' or Canadian';
+            }
+            else if (this.SearchType == "RS") {
+                if (searchDisplayType == 'Tabbed') {
+                    toggleTabs($('tabRS'), 'selected', 'a', this.SearchType, 'TabbedRSOptions');
+                }
+                else if (searchDisplayType == 'MultiLevel') {
+                    this.SelectPropertyType(this.CategoryName, this.CategoryID, this.SearchType);
+                }
+
+                $('orCanadian').innerHTML = '';
+            }
+            else if (this.SearchType == "MP") {
+                if (searchDisplayType == 'Tabbed') {
+                    toggleTabs($('tabMP'), 'selected', 'a', this.SearchType, 'TabbedMPOptions');
+                }
+                else if (searchDisplayType == 'MultiLevel') {
+                    this.SelectPropertyType(this.CategoryName, this.CategoryID, this.SearchType);
+                }
+                $('orCanadian').innerHTML = '';
+            }
+
+            this.addEvent(this.LocationInputField, 'focus', this.locationFocusHandler);
+            this.addEvent(this.LocationInputField, 'blur', this.locationBlurHandler);
+            this.addEvent(this.LocationInputField, 'keydown', this.locationKeyDownHandler);
+            this.addEvent($(this.DropDownID), 'blur', this.propertyTypeBlurHandler);
+            this.addEvent($(this.DropDownID), 'focus', this.propertyTypesFocusHandler);
+            this.addEvent($(this.DropDownID), 'click', this.propertyTypesFocusHandler);
+
+            this.addEvent($('HelpAdvancedSearchMP'), 'mouseover', this.helpHoverHandler);
+            this.addEvent($('HelpAdvancedSearchMP'), 'mouseout', this.helpHoverHandler);
+            this.addEvent($('HelpAdvancedSearchFS'), 'mouseover', this.helpHoverHandler);
+            this.addEvent($('HelpAdvancedSearchFS'), 'mouseout', this.helpHoverHandler);
+            this.addEvent($('HelpAdvancedSearchFL'), 'mouseover', this.helpHoverHandler);
+            this.addEvent($('HelpAdvancedSearchFL'), 'mouseout', this.helpHoverHandler);
+            this.addEvent($('HelpAdvancedSearchRS'), 'mouseover', this.helpHoverHandler);
+            this.addEvent($('HelpAdvancedSearchRS'), 'mouseout', this.helpHoverHandler);
+
+        },
+
+        helpHoverHandler: function (event) {
+            UniversalQuickSearch.HelpHover = !UniversalQuickSearch.HelpHover;
+        },
+
+
+        propertyTypesFocusHandler: function (event) {
+
+        },
+
+        locationFocusHandler: function (event) {
+            UniversalQuickSearch.LocationInputField.style.color = '#000'
+
+            if (UniversalQuickSearch.LocationInputField.value == UniversalQuickSearch.BlurString) {
+                UniversalQuickSearch.LocationInputField.value = '';
+                if (UniversalQuickSearch.HelpSuggest)
+                    UniversalQuickSearch.HelpSuggest.style.display = 'block';
+            }
+
+        },
+
+        locationBlurHandler: function (event) {
+            if (UniversalQuickSearch.LocationInputField.value == '') {
+                UniversalQuickSearch.LocationInputField.style.color = '#999'
+                UniversalQuickSearch.LocationInputField.value = UniversalQuickSearch.BlurString;
+                if (!UniversalQuickSearch.HelpHover) {
+                    UniversalQuickSearch.HelpSuggest.style.display = 'none'
+                }
+            }
+        },
+
+        locationKeyDownHandler: function (event) {
+            if (UniversalQuickSearch.HelpSuggest)
+                UniversalQuickSearch.HelpSuggest.style.display = 'none';
+        },
+
+        propertyTypeBlurHandler: function (event) {
+            setTimeout('hidePropertyTypes()', 200);
+        },
+
+        addEvent: function (obj, ev, handler) {
+            if (!obj) return;
+
+            if (obj.addEventListener)
+                obj.addEventListener(ev, handler, false);
+            else if (obj.attachEvent)
+                obj.attachEvent('on' + ev, handler);
+        },
+
+        SelectPropertyType: function (categoryname, categoryId, searchtype) {
+
+            if (categoryname == '' && searchDisplayType == 'MultiLevel') {
+                $(this.DropDownID).innerHTML = 'Select a Property Type';
+                $(this.DropDownID).style.color = '#999';
+                return;
+            }
+
+            $(this.DropDownID).style.color = '#466daa';
+            if (searchDisplayType == 'MultiLevel') { $('multiLevelOptionsWrapper_ErrorAlert').style.display = 'none'; }
+            var valueHasChanged = false;
+
+            if (
+                searchtype != UniversalQuickSearch.SearchType ||
+                categoryId != UniversalQuickSearch.CategoryID) {
+                valueHasChanged = true;
+            }
+
+            this.CategoryName = categoryname;
+            var selectedItemDisplay = categoryname + '<span class="caret-down-small"></span>';
+
+            if (searchtype == "FS" && searchDisplayType == 'MultiLevel' && categoryId != '') {
+                selectedItemDisplay += ' For Sale';
+            }
+            if (searchtype == "FL" && searchDisplayType == 'MultiLevel' && categoryId != '') {
+                selectedItemDisplay += ' For Lease';
+            }            
+
+            // hack to trim the name so it looks nice in the textbox
+            if (searchtype == "FS" && categoryId == 130 && searchDisplayType == 'MultiLevel') {
+                selectedItemDisplay = 'Sport & Ent. For Sale';
+            }
+
+            $(this.DropDownID).innerHTML = selectedItemDisplay;
+
+            UniversalQuickSearch.SearchType = searchtype;
+            UniversalQuickSearch.CategoryID = categoryId;
+
+            hidePropertyTypes();
+
+            if (valueHasChanged && this.onchange && typeof (this.onchange) == "function") {
+                this.onchange();  // probably not the best way to "fire an event"
+            }
+        },
+
+
+
+        DoSearch: function (event) {
+            if ($(this.DropDownID).innerHTML.indexOf("Select a Property Type") > -1) {
+                UniversalQuickSearch.TempDontHide = true;
+                if ($(activeOptionList).style.display == 'none') {
+                    UniversalQuickSearch.togglePropertyTypesFromLink();
+                }
+                else {
+                    $(this.DropDownID).focus();
+                }
+                if (searchDisplayType == 'MultiLevel') { $('multiLevelOptionsWrapper_ErrorAlert').style.display = 'block'; }
+
+                setTimeout("UniversalQuickSearch.TempDontHide=false;", 203);
+                LogActionCode(1130, PageExecutionGuid);
+                return false;
+            }
+
+            var QS_Form = document.createElement("FORM");
+            document.body.appendChild(QS_Form);
+
+            var FromUniversalInput = document.createElement("INPUT");
+            FromUniversalInput.type = "hidden";
+            FromUniversalInput.name = "FromUniversalSearch";
+            FromUniversalInput.value = "true";
+
+            var QuickSearchBlurString = document.createElement("INPUT");
+            QuickSearchBlurString.type = "hidden";
+            QuickSearchBlurString.name = "UniversalSearchBlurString";
+            QuickSearchBlurString.value = UniversalQuickSearch.BlurString;
+
+            var LocationInput = document.createElement("INPUT");
+            LocationInput.type = "hidden";
+            LocationInput.name = "UniversalSearchLocation";
+            LocationInput.value = UniversalQuickSearch.LocationInputField.value;
+
+            var PropertyTypeInput = document.createElement("INPUT");
+            PropertyTypeInput.type = "hidden";
+            PropertyTypeInput.name = "UniversalSearchPropertyType";
+            PropertyTypeInput.value = UniversalQuickSearch.CategoryID;
+
+            var doSearchLinkCode = "";
+            var linkCodeQS = "";
+
+            if (parseInt(doSearchLinkCode) > 0)
+                linkCodeQS = "?linkcode=" + doSearchLinkCode;
+
+            if (UniversalQuickSearch.SearchType == "FS") {
+                QS_Form.action = "/forsale/" + linkCodeQS;
+            }
+            else if (UniversalQuickSearch.SearchType == "FL") {
+                QS_Form.action = "/forlease/" + linkCodeQS;
+            }
+
+            QS_Form.appendChild(PropertyTypeInput);
+            QS_Form.appendChild(LocationInput);
+            QS_Form.appendChild(FromUniversalInput);
+            QS_Form.appendChild(QuickSearchBlurString);
+            QS_Form.method = "POST";
+
+            QS_Form.submit();
+
+            return false;
+        },
+
+        togglePropertyTypesFromLink: function () {
+            if ($(activeOptionList).style.display != 'none') {
+                togglePropertyTypes();
+            }
+            else {
+                UniversalQuickSearch.TempDontHide = true;
+                togglePropertyTypes();
+
+
+                setTimeout("UniversalQuickSearch.TempDontHide=false;", 203);
+            }
+        }
+    });
+
+
+    // wrapper for RemoteUniversalSuggest .. onReturn()
+    var QuickSearch = ({
+        createAndSendFormHandler: function (event) {
+            UniversalQuickSearch.DoSearch(event);
+        }
+    });
+
+    function togglePropertyTypes() {
+
+        toggle(activeOptionList);
+        //changeclass();
+
+        if ($(activeOptionList).style.display != 'none') {
+            $(UniversalQuickSearch.DropDownID).focus();
+        }
+    }
+
+    function hidePropertyTypes() {
+        if (!UniversalQuickSearch.TempDontHide) {
+            document.getElementById(activeOptionList).style.display = 'none';
+          //  document.getElementById("propTypesInitialDropDown").className = 'quickSearchMain';
+        }
+    }
+
+    function toggleActiveOptionList() {
+        if (activeOptionList != null) {
+            var e = $(activeOptionList);
+            if (e.style.display == 'none')
+                e.style.display = '';
+            else
+                e.style.display = 'none';
+        }
+    }
+    // simple function to toggle a div visible or not.
+    function toggle(id) {
+        var e = document.getElementById(id);
+        if (e.style.display == 'none')
+            e.style.display = '';
+        else
+            e.style.display = 'none';
+    }
+
+    function toggleTabs(element, activeClass, desiredTag,searchType,optionList) {
+        var elements = element.parentNode.parentNode.getElementsByTagName(desiredTag);
+
+        for (var i = 0; i < elements.length; i++)
+            elements[i].className = "";
+
+        element.className = activeClass;
+        activeTabSearchType = searchType;
+        activeOptionList = optionList;
+
+        $('TabbedFSOptions').style.display = 'none';
+        $('TabbedFLOptions').style.display = 'none';
+
+        switch (searchType) {
+            case "FS":
+                setCorrespondingListItem(FSCategories, searchType, 'All properties for sale');
+                break;
+            case "FL":
+                setCorrespondingListItem(FLCategories, searchType, 'All properties for lease');
+                break;
+            default:
+        }
+    }
+
+    function setCorrespondingListItem(categoryIDArray, searchType, defaultCategoryName)
+    //select an item based on previous list for Tabbed QuickSearch
+    {
+        var len = categoryIDArray.length;
+        var itemFound = false;
+        for (var i = 0; i < len; i++) {
+            if (categoryIDArray[i] == UniversalQuickSearch.CategoryID) //found
+            {
+                itemFound = true;
+                UniversalQuickSearch.SelectPropertyType(UniversalQuickSearch.CategoryName, categoryIDArray[i], searchType);
+                break;
+            }
+        }
+
+        if (!itemFound) {
+            UniversalQuickSearch.SelectPropertyType(defaultCategoryName, '', searchType);
+        }
+    }
+
+    // class change on the "dropdown anchor" to add a small "lip"
+    // to connect with the large dropdown dialogue.
+    function changeclass() {
+       // tclass = document.getElementById("propTypesInitialDropDown");
+        //if (tclass.className == 'quickSearchMain') {
+        //    tclass.className = "quickSearchMain dropdownActive";
+        //} else {
+        //    tclass.className = 'quickSearchMain';
+        //}
+    }
+
+    LNJS.QuickSearchLocationField = 'Location';
+    UniversalQuickSearch.initialize();
+
+</script>
+
+    
+        
+        <!--Inpage Login-->
+        <link href="/xnet/mainsite/Styles/InPageReg.css" type="text/css" rel="stylesheet" />
+        <!-- Browser Specific Style-->
+        <!--[if IE 7]>
+<style type="text/css">>
+.bobPricing {
+	margin: 19px 0 17px 0;
+	}
+.bobPricingMonthly {
+	margin: 0 0 0 158px;
+	}
+.bobPricingMonthlyButton {
+	margin: 4px 0 0 86px;
+	}
+.bobLogin {
+	float: right;
+	width: 258px;
+	height: 34px;
+	margin: 0 -40px 0 0;
+	}
+</style>
+<![endif]-->
+
+        <!--[if lt IE 7]>
+<style>
+.bobHeader {
+	background-image: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://VPHAM01.loopnet.com/images/backgrounds/openLease/dailyEmailAlertsOverlayTop.png", sizingMethod="crop");
+	}
+.bobFooter {
+	background-image: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://VPHAM01.loopnet.com/images/backgrounds/openLease/dailyEmailAlertsOverlayBottom.png", sizingMethod="crop");
+	}
+.bobPricing {
+	margin: 19px 0 17px 0;
+	}
+.bobLogin {
+	float: right;
+	width: 258px;
+	height: 34px;
+	margin: 0 -22px 0 0;
+	}
+</style>
+<![endif]-->
+
+        <!--Hidden Inputs-->
+        <input name="InPageRegDiv$PopupRegConfirmation_TF" type="hidden" id="InPageRegDiv_PopupRegConfirmation_TF" />
+        <input name="InPageRegDiv$AddtionalInputs_TF" type="hidden" id="InPageRegDiv_AddtionalInputs_TF" />
+        <input name="InPageRegDiv$AltRedirectURL" type="hidden" id="InPageRegDiv_AltRedirectURL" />
+        <input name="InPageRegDiv$ValidateMembership" type="hidden" id="InPageRegDiv_ValidateMembership" />
+        <input name="InPageRegDiv$hidPageDataContext_ParentDataGuid" type="hidden" id="InPageRegDiv_hidPageDataContext_ParentDataGuid" />
+
+        <!--- The black Overlay-->
+        <div class="overlay" id="InPageDiv1" onclick="HideInPageReg()" style="display:none"> </div>
+
+        <!--- Main Layer -->
+        <div class="olDialogueMain" id="InPageDiv2" style="display:none">
+
+          <!---The Registration Layer-->
+          <div id="RegDiv">
+
+            <div class="olDialogueTop clearfix">
+              <div class="olDialogueTopWrapper" >
+                <h1>
+                  <img id="RegHeaderImage" src="/images/bullets/asteriskRed.gif" alt="" />
+                </h1>
+                <div class="olDialogueClose">
+                  <a href="javascript:HideInPageReg()" title="Close Window">
+                    <img src="/images/buttons/openLease/btn_close.gif" alt="Close Window" />
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="olDialogueContent olDialogueRegTest clearfix">
+              <div class="olDialogueWrapper">
+                <h2>
+                  <img src="/images/titles/openLease/CompleteThisFormToBecomeAFreeMember.gif" alt="Complete This Form to Become a FREE Member" />
+                </h2>
+                <div id="ErrMsgDiv"></div>
+                <div class="asterisk regPreForm">
+                  <div class="regRequiredLegend">
+                    <img src="/images/bullets/asteriskRed.gif" alt="*" /> = Required Field.
+                  </div>
+                </div>
+                <div class="regAlreadyMember">
+                  <div class="regAlreadyMemberText">Already a Member?</div>
+                  <a href="javascript:ClearErrMsg();ToggleReg(0)" title="Log In">
+                    <img src="/images/homepage/LogIn.gif">
+                  </a>
+                </div>
+
+                <div class="regFormFields">
+                  <img src="/images/bullets/asteriskRed.gif" alt="*" /> First Name: <input name="InPageRegDiv$FirstName_TF" type="text" id="InPageRegDiv_FirstName_TF" class="regInput" /><br />
+                  <img src="/images/bullets/asteriskRed.gif" alt="*" /> Last Name: <input name="InPageRegDiv$LastName_TF" type="text" id="InPageRegDiv_LastName_TF" class="regInput" /><br />
+                  <img src="/images/bullets/asteriskRed.gif" alt="*" /> Your Email: <input name="InPageRegDiv$EmailAddress_TF" type="text" id="InPageRegDiv_EmailAddress_TF" class="regInput" /><br />
+                  <img src="/images/bullets/asteriskRed.gif" alt="*" /> New Password: <input name="InPageRegDiv$Password_TF" type="password" id="InPageRegDiv_Password_TF" class="regInput" /><br />
+
+                  <img src="/images/bullets/asteriskRed.gif" alt="*" /> Country:
+                  <select name="InPageRegDiv$CountryList" id="InPageRegDiv_CountryList" onchange="TogglePhoneDisplay(this)">
+                    <option selected="selected" value="US">United States</option>
+                    <option value="CA">Canada</option>
+                    <option value="MX">Mexico</option>
+                    <option value="">-----------------</option>
+                    <option value="AF">Afghanistan</option>
+                    <option value="AL">Albania</option>
+                    <option value="DZ">Algeria</option>
+                    <option value="AS">American Samoa</option>
+                    <option value="AD">Andorra, Principality of</option>
+                    <option value="AO">Angola</option>
+                    <option value="AI">Anguilla</option>
+                    <option value="AQ">Antarctica</option>
+                    <option value="AG">Antigua and Barbuda</option>
+                    <option value="AR">Argentina</option>
+                    <option value="AM">Armenia</option>
+                    <option value="AW">Aruba</option>
+                    <option value="AC">Asmore &amp; Cartier Islands</option>
+                    <option value="AU">Australia</option>
+                    <option value="AT">Austria</option>
+                    <option value="AZ">Azerbaidjan</option>
+                    <option value="BS">Bahamas</option>
+                    <option value="BH">Bahrain</option>
+                    <option value="BK">Baker Island</option>
+                    <option value="BD">Bangladesh</option>
+                    <option value="BB">Barbados</option>
+                    <option value="BQ">Bassas Da India</option>
+                    <option value="BY">Belarus</option>
+                    <option value="BE">Belgium</option>
+                    <option value="BZ">Belize</option>
+                    <option value="BJ">Benin</option>
+                    <option value="BU">Berma</option>
+                    <option value="BM">Bermuda</option>
+                    <option value="BT">Bhutan</option>
+                    <option value="BO">Bolivia</option>
+                    <option value="BA">Bosnia-Herzegovina</option>
+                    <option value="BW">Botswana</option>
+                    <option value="BV">Bouvet Island</option>
+                    <option value="BR">Brazil</option>
+                    <option value="IO">British Indian Ocean Territory</option>
+                    <option value="BL">British Virgin Islands</option>
+                    <option value="BN">Brunei Darussalam</option>
+                    <option value="BG">Bulgaria</option>
+                    <option value="BF">Burkina Faso</option>
+                    <option value="BI">Burundi</option>
+                    <option value="KH">Cambodia, Kingdom of</option>
+                    <option value="CM">Cameroon</option>
+                    <option value="CA">Canada</option>
+                    <option value="CV">Cape Verde</option>
+                    <option value="KY">Cayman Islands</option>
+                    <option value="CF">Central African Republic</option>
+                    <option value="TD">Chad</option>
+                    <option value="CL">Chile</option>
+                    <option value="CN">China</option>
+                    <option value="CX">Christmas Island</option>
+                    <option value="CP">Clipperton Island</option>
+                    <option value="CC">Cocos (Keeling) Islands</option>
+                    <option value="CO">Colombia</option>
+                    <option value="KM">Comoros</option>
+                    <option value="CG">Congo</option>
+                    <option value="CK">Cook Islands</option>
+                    <option value="CE">Coral Sea Islands</option>
+                    <option value="CR">Costa Rica</option>
+                    <option value="HR">Croatia</option>
+                    <option value="CU">Cuba</option>
+                    <option value="CY">Cyprus</option>
+                    <option value="CZ">Czech Republic</option>
+                    <option value="DK">Denmark</option>
+                    <option value="DJ">Djibouti</option>
+                    <option value="DM">Dominica</option>
+                    <option value="DO">Dominican Republic</option>
+                    <option value="EC">Ecuador</option>
+                    <option value="EG">Egypt</option>
+                    <option value="SV">El Salvador</option>
+                    <option value="GQ">Equatorial Guinea</option>
+                    <option value="ER">Eritrea</option>
+                    <option value="EE">Estonia</option>
+                    <option value="ET">Ethiopia</option>
+                    <option value="EI">Europa Island</option>
+                    <option value="FK">Falkland Islands</option>
+                    <option value="FO">Faroe Islands</option>
+                    <option value="FJ">Fiji</option>
+                    <option value="FI">Finland</option>
+                    <option value="FR">France</option>
+                    <option value="GF">French Guyana</option>
+                    <option value="TF">French Southern Territories</option>
+                    <option value="GA">Gabon</option>
+                    <option value="GM">Gambia</option>
+                    <option value="GZ">Gaza Strip</option>
+                    <option value="GE">Georgia</option>
+                    <option value="DE">Germany</option>
+                    <option value="GH">Ghana</option>
+                    <option value="GI">Gibraltar</option>
+                    <option value="GO">Glorioso Islands</option>
+                    <option value="GR">Greece</option>
+                    <option value="GL">Greenland</option>
+                    <option value="GD">Grenada</option>
+                    <option value="GP">Guadeloupe (French)</option>
+                    <option value="GU">Guam (USA)</option>
+                    <option value="GT">Guatemala</option>
+                    <option value="GB">Guernsey</option>
+                    <option value="GN">Guinea</option>
+                    <option value="GW">Guinea Bissau</option>
+                    <option value="GY">Guyana</option>
+                    <option value="HT">Haiti</option>
+                    <option value="HM">Heard and McDonald Islands</option>
+                    <option value="VA">Holy See (Vatican City State)</option>
+                    <option value="HN">Honduras</option>
+                    <option value="HK">Hong Kong</option>
+                    <option value="HI">Howland Island</option>
+                    <option value="HU">Hungary</option>
+                    <option value="IS">Iceland</option>
+                    <option value="IN">India</option>
+                    <option value="ID">Indonesia</option>
+                    <option value="IR">Iran</option>
+                    <option value="IQ">Iraq</option>
+                    <option value="IE">Ireland</option>
+                    <option value="IL">Israel</option>
+                    <option value="IT">Italy</option>
+                    <option value="CI">Ivory Coast (Cote D&#39;Ivoire)</option>
+                    <option value="JM">Jamaica</option>
+                    <option value="JY">Jan Mayen</option>
+                    <option value="JP">Japan</option>
+                    <option value="JI">Jarvis Island</option>
+                    <option value="Je">Jersey</option>
+                    <option value="JA">Johnston Atoll</option>
+                    <option value="JO">Jordan</option>
+                    <option value="JU">Juan De Nova Island</option>
+                    <option value="KZ">Kazakhstan</option>
+                    <option value="KE">Kenya</option>
+                    <option value="KF">Kingman Reef</option>
+                    <option value="KI">Kiribati</option>
+                    <option value="KW">Kuwait</option>
+                    <option value="KG">Kyrgyz Republic (Kyrgyzstan)</option>
+                    <option value="LA">Laos</option>
+                    <option value="LV">Latvia</option>
+                    <option value="LB">Lebanon</option>
+                    <option value="LS">Lesotho</option>
+                    <option value="LR">Liberia</option>
+                    <option value="LY">Libya</option>
+                    <option value="LI">Liechtenstein</option>
+                    <option value="LT">Lithuania</option>
+                    <option value="LU">Luxembourg</option>
+                    <option value="MO">Macau</option>
+                    <option value="MK">Macedonia</option>
+                    <option value="MG">Madagascar</option>
+                    <option value="MW">Malawi</option>
+                    <option value="MY">Malaysia</option>
+                    <option value="MV">Maldives</option>
+                    <option value="ML">Mali</option>
+                    <option value="MT">Malta</option>
+                    <option value="MI">Man, Isle of</option>
+                    <option value="MH">Marshall Islands</option>
+                    <option value="MQ">Martinique (French)</option>
+                    <option value="MR">Mauritania</option>
+                    <option value="MU">Mauritius</option>
+                    <option value="YT">Mayotte</option>
+                    <option value="MX">Mexico</option>
+                    <option value="FM">Micronesia</option>
+                    <option value="MD">Moldavia</option>
+                    <option value="MC">Monaco</option>
+                    <option value="MN">Mongolia</option>
+                    <option value="MB">Montenegro</option>
+                    <option value="MS">Montserrat</option>
+                    <option value="MA">Morocco</option>
+                    <option value="MZ">Mozambique</option>
+                    <option value="NA">Namibia</option>
+                    <option value="NR">Nauru</option>
+                    <option value="NV">Navassa Island</option>
+                    <option value="NP">Nepal</option>
+                    <option value="NL">Netherlands</option>
+                    <option value="AN">Netherlands Antilles</option>
+                    <option value="NC">New Caledonia (French)</option>
+                    <option value="NZ">New Zealand</option>
+                    <option value="NI">Nicaragua</option>
+                    <option value="NE">Niger</option>
+                    <option value="NG">Nigeria</option>
+                    <option value="NU">Niue</option>
+                    <option value="NF">Norfolk Island</option>
+                    <option value="KP">North Korea</option>
+                    <option value="MP">Northern Mariana Islands</option>
+                    <option value="NO">Norway</option>
+                    <option value="OM">Oman</option>
+                    <option value="PK">Pakistan</option>
+                    <option value="PW">Palau</option>
+                    <option value="PB">Palmyra Atoll</option>
+                    <option value="PA">Panama</option>
+                    <option value="PG">Papua New Guinea</option>
+                    <option value="PC">Paracel Islands</option>
+                    <option value="PY">Paraguay</option>
+                    <option value="PE">Peru</option>
+                    <option value="PH">Philippines</option>
+                    <option value="PN">Pitcairn Island</option>
+                    <option value="PL">Poland</option>
+                    <option value="PF">Polynesia (French)</option>
+                    <option value="PT">Portugal</option>
+                    <option value="PR">Puerto Rico</option>
+                    <option value="QA">Qatar</option>
+                    <option value="RE">Reunion (French)</option>
+                    <option value="RO">Romania</option>
+                    <option value="RU">Russian Federation</option>
+                    <option value="RW">Rwanda</option>
+                    <option value="SH">Saint Helena</option>
+                    <option value="KN">Saint Kitts and Nevis Anguilla</option>
+                    <option value="LC">Saint Lucia</option>
+                    <option value="PM">Saint Pierre and Miquelon</option>
+                    <option value="ST">Saint Tome (Sao Tome) and Principe</option>
+                    <option value="VC">Saint Vincent and Grenadines</option>
+                    <option value="WS">Samoa</option>
+                    <option value="SM">San Marino</option>
+                    <option value="SA">Saudi Arabia</option>
+                    <option value="SW">Scotland</option>
+                    <option value="SN">Senegal</option>
+                    <option value="SQ">Serbia</option>
+                    <option value="SC">Seychelles</option>
+                    <option value="SL">Sierra Leone</option>
+                    <option value="SG">Singapore</option>
+                    <option value="SS">Slovakia</option>
+                    <option value="SI">Slovenia</option>
+                    <option value="SB">Solomon Islands</option>
+                    <option value="SO">Somalia</option>
+                    <option value="ZA">South Africa</option>
+                    <option value="KR">South Korea</option>
+                    <option value="ES">Spain</option>
+                    <option value="SP">Spratly Islands</option>
+                    <option value="LK">Sri Lanka</option>
+                    <option value="SD">Sudan</option>
+                    <option value="SR">Suriname</option>
+                    <option value="SJ">Svalbard and Jan Mayen Islands</option>
+                    <option value="SZ">Swaziland</option>
+                    <option value="SE">Sweden</option>
+                    <option value="CH">Switzerland</option>
+                    <option value="SY">Syria</option>
+                    <option value="TJ">Tadjikistan</option>
+                    <option value="TW">Taiwan</option>
+                    <option value="TZ">Tanzania</option>
+                    <option value="TH">Thailand</option>
+                    <option value="TG">Togo</option>
+                    <option value="TK">Tokelau</option>
+                    <option value="TO">Tonga</option>
+                    <option value="TT">Trinidad &amp; Tobago</option>
+                    <option value="TI">Tromelin Island</option>
+                    <option value="TN">Tunisia</option>
+                    <option value="TR">Turkey</option>
+                    <option value="TM">Turkmenistan</option>
+                    <option value="TC">Turks and Caicos Islands</option>
+                    <option value="TV">Tuvalu</option>
+                    <option value="UG">Uganda</option>
+                    <option value="UA">Ukraine</option>
+                    <option value="AE">United Arab Emirates</option>
+                    <option value="UK">United Kingdom</option>
+                    <option value="US">United States</option>
+                    <option value="UY">Uruguay</option>
+                    <option value="UM">USA Minor Outlying Islands</option>
+                    <option value="UZ">Uzbekistan</option>
+                    <option value="VU">Vanuatu</option>
+                    <option value="VE">Venezuela</option>
+                    <option value="VN">Vietnam</option>
+                    <option value="VG">Virgin Islands (British)</option>
+                    <option value="WK">Wake Island</option>
+                    <option value="WA">Wales</option>
+                    <option value="WF">Wallis and Futuna Islands</option>
+                    <option value="WB">West Bank</option>
+                    <option value="EH">Western Sahara</option>
+                    <option value="YE">Yemen</option>
+                    <option value="YU">Yugoslavia</option>
+                    <option value="ZR">Zaire</option>
+                    <option value="ZM">Zambia</option>
+                    <option value="ZW">Zimbabwe</option>
+
+                  </select>
+                  <br />
+                  <div id="ZipCodeDiv">
+                    <img src="/images/bullets/asteriskRed.gif" alt="*" /> Zip/Postal Code: <input name="InPageRegDiv$PostalZipCode" type="text" id="InPageRegDiv_PostalZipCode" maxlength="20" class="regInput" />
+                  </div>
+                  <div class="clearfix">
+                    <div id="PhoneDiv" class="regPhoneContainer" style="display:block">
+                      <table cellpadding="0" cellspacing="0" width="211">
+                        <tr>
+                          <td valign="bottom">
+                            <input name="InPageRegDiv$AreaCode_TF" type="text" id="InPageRegDiv_AreaCode_TF" class="regPhone0" maxlength="3" />
+                          </td>
+                          <td> -</td>
+                          <td valign="bottom">
+                            <input name="InPageRegDiv$Prefix_TF" type="text" id="InPageRegDiv_Prefix_TF" class="regPhone1" maxlength="3" />
+                          </td>
+                          <td> -</td>
+                          <td valign="bottom">
+                            <input name="InPageRegDiv$Suffix_TF" type="text" id="InPageRegDiv_Suffix_TF" class="regPhone2" maxlength="4" />
+                          </td>
+                          <td> Ext.</td>
+                          <td valign="bottom">
+                            <input name="InPageRegDiv$Ext_TF" type="text" id="InPageRegDiv_Ext_TF" class="regPhone3" maxlength="4" />
+                          </td>
+                        </tr>
+                      </table>
+                    </div>
+                    <div id="IntPhoneDiv" style="display:none" class="regPhoneContainer">
+                      <input name="InPageRegDiv$IntPhone_TF" type="text" id="InPageRegDiv_IntPhone_TF" />
+                    </div>
+                    <div class="regPhoneLabel">
+                      <img src="/images/bullets/asteriskRed.gif" alt="*" /> Day Phone:
+                    </div>
+                  </div>
+                </div>
+
+                <div id="regLoopNews">
+                  <input name="InPageRegDiv$LoopNews_CB" type="checkbox" id="InPageRegDiv_LoopNews_CB" checked="checked" />
+                  <p>
+                    <label for="RegistrationEx1_EmailCommunication">Yes, I want to receive LoopNet's weekly newsletter "LoopNews" and information about LoopNet promotions and special offers.</label>
+                  </p>
+                </div>
+
+
+                <div id="regBtnRegisterNow" style="margin-top:10px">
+                  <div class="olActionButton">
+                    <a href="javascript:GetValidateFromIFrame()">
+                      <img id="RegContinueImage" src="/images/bullets/asteriskRed.gif" alt="Continue to Save Search" />
+                    </a>
+                  </div>
+                  <div class="olNoThanks" nowrap="true">
+                    <a href="javascript:HideInPageReg()">No Thanks.</a>
+                  </div>
+                  <div style="visibility:hidden">
+                    <input type="submit" name="InPageRegDiv$LinkButton1" value="" id="InPageRegDiv_LinkButton1" onMouseDown="PopupReg()" style="width:1px;" />
+                  </div>
+                  <div class="clearFix">
+                    <!-- -->
+                  </div>
+                </div>
+                <div id="regTermsAgreement" style="font-weight:bold; color:#000; height:30px; margin: 30px 0 0 -10px; text-align:right">
+                  <p style="color:#666; font-weight:normal; margin:0; padding:0;">
+                    By clicking the button above, you are indicating that you have read, understood, and agree to LoopNet's <a href="javascript:OpenTerms()">Terms and Conditions</a>.
+                  </p>
+                </div>
+
+
+                <div style="width:386px;margin-top:25px;">
+                  <div nowrap="nowrap" style="text-align:right;float:right;">
+                    We will NOT share your email address.<br /><a href="javascript:OpenLNPrivacy()">View Our Privacy Policy.</a>
+                  </div>
+                  <div style="width:115px;">
+                    <a href="http://www.truste.org/ivalidate.php?url=www.loopnet.com&amp;sealid=101" target="_blank">
+                      <img src="/images/ecom/TRUSTe.gif" border="0" width="115" height="31" />
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="olDialogueBottom">
+              <!-- -->
+            </div>
+          </div>
+          <!--END The Registration Layer-->
+
+          <!-- The Login Layer-->
+          <div id="LoginDiv" style="display:none" class="olDialogueMainLogin">
+
+            <div class="olDialogueTopLogin" >
+              <div class="olDialogueTopLoginWrapper">
+                <h1>
+                  <img src="/images/blank.gif" id="LoginHeaderImage" />
+                </h1>
+                <div class="olDialogueCloseSmall">
+                  <a href="javascript:HideInPageReg()" title="Close Window">
+                    <img src="/images/buttons/openLease/btn_close.gif" alt="Close Window" />
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="olDialogueContentLogin">
+              <div class="olDialogueLoginWrapper">
+                <h2>
+                  <img src="/images/titles/openLease/logInHere.gif" alt="Log In Here" />
+                </h2>
+                <div id="ErrMsgDivLogin"></div>
+                <div class="regFormFields clearfix">
+                  <div nowrap="" id="divLoginInput">
+                    Email Address:<input name="InPageRegDiv$LoginUserName_TF" type="text" id="InPageRegDiv_LoginUserName_TF" class="regInputLogin" onkeypress="return triggerLogin(event)" />
+                  </div>
+                  <div nowrap="">
+                    Password:<input name="InPageRegDiv$LoginPassword_TF" type="password" id="InPageRegDiv_LoginPassword_TF" class="regInputLogin" onkeypress="return triggerLogin(event)" />
+                  </div>
+                  <script type="text/javascript">
+                    if (document.getElementById('InPageRegDiv_LoginUserName_TF').value == '')
+                    {
+                      if(InPageGetCookie("LastUserEmail") != '')
+                      {
+                         document.getElementById('InPageRegDiv_LoginUserName_TF').value = InPageGetCookie("LastUserEmail");
+                      }
+                    }
+                  </script>
+                </div>
+                <div id="olBtnLogIn">
+
+                  <div class="olLogin">
+                    <a id="aLogin" href="javascript:PopupLogin()">
+                      <img id="aLoginImg" src="/images/buttons/openLease/btn_olLogIn.gif" alt="Login" />
+                    </a>
+                  </div>
+                  <div class="rememberme">
+                    <span class="rememberMeBox">
+                      <input id="InPageRegDiv_chkRememberMe" type="checkbox" name="InPageRegDiv$chkRememberMe" />
+                    </span>
+                    <label for="remember">Remember Me</label>
+                  </div>
+                  <div class="olForgotPassword clearBoth">
+                    <a href="/xnet/mainsite/user/forgotpassword.aspx?LinkCode=13780" title="Forgot Your Password?">Forgot Your Password?</a>
+                  </div>
+                  <div id="RegBox" nowrap="">
+                    <br />
+                    <table cellpadding="0" cellspacing="0" border="0">
+                      <tr>
+                        <td>
+                          <b>Are you new to LoopNet?  </b>
+                        </td>
+                        <td>
+                          <a href="javascript:ClearErrMsg();ToggleReg(1)" title="Become a Free Member">
+                            <img src="/images/buttons/openLease/btn_olBecomeAFreeMember.gif" alt="Become a Free Member" />
+                          </a>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div id="BuyBox" style="display: none" nowrap="">
+                    <br />
+                    <table cellpadding="0" cellspacing="0" border="0">
+                      <tr>
+                        <td>
+                          <b>Are you new to LoopNet? </b>
+                        </td>
+                        <td>
+                          <a href="javascript:BuyPM();" title="Become a Premium Member">
+                            <img src="/images/buttons/openLease/btn_olBecomeAPremiumMember.gif" alt="Become a Premium Member" />
+                          </a>
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="olDialogueBottomLogin">
+              <!-- -->
+            </div>
+          </div>
+          <div style="visibility:hidden">
+            <input type="submit" name="InPageRegDiv$Login_Btn" value="" id="InPageRegDiv_Login_Btn" onMouseDown="PopupReg()" style="width:1px;" />
+          </div>
+          <!--End The Login Layer-->
+          <div id="ReportUpSellDiv"></div>
+          <div id="UpSellDiv"></div>
+          <div id="BasicListingUpSellDiv"></div>
+          <div id="ReportUpSellDiv"></div>
+          <div id="MapUpSellDiv"></div>
+        </div>
+          
+        <iframe id="RegValidationIFrame" frameborder="0" marginheight="0" marginwidth="0" height="0" width="0"></iframe><script language="javascript">
+          var DropDownArray = new Array();
+          var PageFormName = "Form1";
+          var InpageActionType = "" + "";
+          var InpagePopupError = "" + "";
+          var PopupRegConfirmation = "" + "";
+          var PageName = '';
+          var HiddenPageFormName = 'Form1';
+          var sOriginalURL = "/xNet/Mainsite/Default.aspx" + "?" + "";
+          var sRedirectURL = "";
+          try{document.getElementById("InpagePopupError").value = InpagePopupError;}catch(e){}
+          var InPageListingID = "";
+          var ProfileAdditionalParams = "RecentlyViewed=&ItemIndex=";
+
+          var PageForm = eval("document." + PageFormName);
+          var ZipCodeDiv  = document.getElementById("ZipCodeDiv");
+          var PhoneDiv    = document.getElementById("PhoneDiv");
+          var IntPhoneDiv = document.getElementById("IntPhoneDiv");
+          var LoginDiv    = document.getElementById("LoginDiv");
+          var RegDiv      = document.getElementById("RegDiv");
+          var UpSellDiv   = document.getElementById("UpSellDiv");
+          var ReportUpSellDiv         = document.getElementById("ReportUpSellDiv");
+          var BasicListingUpSellDiv   = document.getElementById("BasicListingUpSellDiv");
+          var MapUpSellDiv            = document.getElementById("MapUpSellDiv");
+          var RegHeaderImage          =  document.getElementById("RegHeaderImage");
+          var RegContinueImage        = document.getElementById("RegContinueImage");
+          var LoginHeaderImage        = document.getElementById("LoginHeaderImage");
+
+          var RegHeaderText          =  document.getElementById("RegHeaderText");
+          var LoginHeaderText        = document.getElementById("LoginHeaderText");
+          var LoginSubHeaderText     = document.getElementById("LoginSubHeaderText");
+
+          var PostalZipCode = PageForm.InPageRegDiv_PostalZipCode;
+          var EmailAddress_TF =  PageForm.InPageRegDiv_EmailAddress_TF;
+          var CountryList = PageForm.InPageRegDiv_CountryList;
+
+          var RegValidationIFrame = document.getElementById("RegValidationIFrame");
+          var Password_TF = PageForm.InPageRegDiv_Password_TF;
+
+          var FirstName_TF = PageForm.InPageRegDiv_FirstName_TF;
+          var LastName_TF = PageForm.InPageRegDiv_LastName_TF;
+          var PhoneDiv = document.getElementById("PhoneDiv");
+          var IntPhone_TF = PageForm.InPageRegDiv_IntPhone_TF;
+          var AreaCode_TF = PageForm.InPageRegDiv_AreaCode_TF;
+          var Prefix_TF = PageForm.InPageRegDiv_Prefix_TF;
+          var Suffix_TF = PageForm.InPageRegDiv_Suffix_TF;
+          var Ext_TF = PageForm.InPageRegDiv_Ext_TF;
+          var LoopNews_CB = PageForm.InPageRegDiv_LoopNews_CB;
+
+          var ErrMsgDiv = document.getElementById("ErrMsgDiv");
+          var AltRedirectURL = PageForm.InPageRegDiv_AltRedirectURL;
+          var PopupRegConfirmation_TF = PageForm.InPageRegDiv_PopupRegConfirmation_TF;
+          var LoginUserName_TF = PageForm.InPageRegDiv_LoginUserName_TF;
+          var LoginPassword_TF = PageForm.InPageRegDiv_LoginPassword_TF;
+          var chkRememberMe = PageForm.InPageRegDiv_chkRememberMe;
+
+          var SessionFarmGuid = "a89dde0b-f7a0-4ebb-a80b-3e5e1f75de3c";
+          var SiteString = '<SiteString>' + '&lt;PFRequestInfo SessionGUID="a89dde0b-f7a0-4ebb-a80b-3e5e1f75de3c"&gt;&lt;Site SiteID="1" /&gt;&lt;/PFRequestInfo&gt;' +  '</SiteString>';
+          var ScriptName = "/xNet/Mainsite/Default.aspx";
+          var ParentPageExecutionGuid = "";
+          var PageExecutionGuid = "08774deb-1d28-435c-a7dc-a6d9935526cb";
+
+          //Set Default value
+          PopupRegConfirmation_TF.value = PopupRegConfirmation;
+          AltRedirectURL.value = sRedirectURL;
+        </script><script>
+          var Phone_TF = Phone_TF || {};
+          var isEmpty = function(str) {
+          return (!str || 0 === str.length);
+          }
+
+        </script><script type="text/javascript">
+          function AsyncCall(url, redirect) {
+          var xmlHttp = new XMLHttpRequest();
+          if (redirect) {
+          xmlHttp.onreadystatechange = function () {
+          if (this.readyState === 4) {
+          window.location = redirect;
+          }
+          };
+          }
+          xmlHttp.open("GET", url, true);
+          xmlHttp.send(null);
+          }
+
+          (function ($) {
+          $(document).ready(function () {
+          var $primaryMenu = $('.primary-actions li');
+          $primaryMenu.click(function () {
+          if (!$(this).hasClass('dropdown-open')) {
+          $primaryMenu.removeClass('dropdown-open');
+          }
+          $(this).toggleClass('dropdown-open');
+          });
+          $(document).on('click', function (event) {
+          if (!$(event.target).closest('.primary-actions li').length) {
+          if ($primaryMenu.hasClass('dropdown-open')) {
+          $primaryMenu.removeClass('dropdown-open');
+          }
+          }
+          });
+          if (jQuery("#viewAllNotifications").length) {
+          jQuery("#viewAllNotifications").click(function () {
+          NotificationViewed();
+          });
+          };
+
+          var fsOptions = jQuery('#TabbedFSOptions');
+          var flOptions = jQuery('#TabbedFLOptions');
+          fsOptions.empty();
+          fsOptions.append('<li><a href="javascript:UniversalQuickSearch.SelectPropertyType(\'All properties for sale\', \'\', \'FS\');" title="For Sale" id="A1" class="quickSearchType">All properties for sale</a></li>');
+          flOptions.empty();
+          flOptions.append('<li><a href="javascript:UniversalQuickSearch.SelectPropertyType(\'All properties for lease\', \'\', \'FL\');" title="For Lease" id="A1" class="quickSearchType">All properties for lease</a></li>');
+          if (LN_CatListFS) {
+          for (var i=0; i < LN_CatListFS.length; i++) {
+          var cat = LN_CatListFS[i];
+          fsOptions.append('<LI><a href="javascript:UniversalQuickSearch.SelectPropertyType(\'' + cat.Key + '\', '+ cat.Value +', \'FS\');" title="' + cat.Key + '" class="quickSearchType">' + cat.Key + '</a></LI>');
+          };
+          };
+
+          if (LN_CatListFL) {
+          for (var i=0; i < LN_CatListFL.length; i++) {
+          var cat = LN_CatListFL[i];
+          flOptions.append('<LI><a href="javascript:UniversalQuickSearch.SelectPropertyType(\'' + cat.Key + '\', '+ cat.Value +', \'FL\');" title="' + cat.Key + '" class="quickSearchType">' + cat.Key + '</a></LI>');
+          };
+          };
+          })
+          })(jQuery)
+
+        </script><script Language="JavaScript" SRC="/xNet/Mainsite/Scripts/InPageReg.js"></script><div class="clearfix">
+          <div class="seo breadCrumbs"></div>
+        </div>
+        <p class="seoHeader"></p>
+        <div class="seoContainer">
+          <div class="seoListingsContainer">
+            <p class="seoHeader"><b>Welcome to the LoopNet.com Hackensack Commercial Real Estate page</b>.  Find Hackensack, New Jersey commercial real estate for sale and for lease on the Internet's largest commercial real estate marketplace online.  LoopNet's Hackensack listings cover all desired property types, including Land for Sale, Multifamily Apartments, Retail, <a href="/Office-Space-For-Lease/" title="Office Space">Office Space</a>, Industrial Property and much more.  Find Hackensack commercial real estate brokers, learn about the Hackensack commercial real estate market, or find a loan at the leading commercial real estate marketplace - LoopNet.com!</p>
+<div class="seoListingsTitle">Below are <b>193 Hackensack commercial real estate listings</b> out of over 500,000 total properties available on LoopNet.com.<br></div>
+            <div class="countSortBar clearfix">
+              <p>193 Listings
+              </p>
+              <div class="seo resultsSorting clearfix desktop"><a href="javacript:void(0);" class="sortAnchor" id="sortAnchorLink">
+                Sort<span class="ln-icon-caret-down"></span></a><ul id="sorterSelect" class="sortDropdown popup" style=""></ul>
+              </div>
+            </div>
+            <div class="seoListings">
+              <div id="dc_ad"></div>
+              <div class="listingAd"><div id="SEO-Pages" style="width: 640; height: 108"><script>googletag.display('SEO-Pages');</script></div></div>
+<div class="&#xA;        listingContainer clearfix tier2">
+<div class="listingPhoto"><a href="/Listing/25-Main-St-Hackensack-NJ/15671192/" title="25 Main St, Hackensack, NJ"><img src="https://images4.loopnet.com/i2/NEnMk2p614dPcMsungWcRXJTlGN-nN3pMyHHNLH4oUA/106/image.jpg" alt="25 Main St, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/25-Main-St-Hackensack-NJ/15671192/" title="25 Main St, Hackensack, NJ"><span class="listingTitle">25 Main St</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription">This superb facility is situated in an extensively landscaped complex; with tree-lined walkways, fountains and large areas of open, green space...</span></div>
+
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Lease</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$2.33 - $2.50 /SF/Mo</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Spaces:</td>
+                    <td>2 Spaces</td>
+                  </tr>
+                  <tr>
+                    <td>Space Available:</td>
+                    <td>0.05 - 0.41 AC</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>160,000 SF</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier3">
+<div class="listingPhoto"><a href="/Listing/200-Atlantic-St-Hackensack-NJ/13888478/" title="200 Atlantic St, Hackensack, NJ"><img src="https://images1.loopnet.com/i2/vgPzFxiXifKqeASLwPgMTbAnlWlBO9T3nlCNoov-w6w/106/image.jpg" alt="200 Atlantic St, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/200-Atlantic-St-Hackensack-NJ/13888478/" title="200 Atlantic St, Hackensack, NJ"><span class="listingTitle">200 Atlantic St</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription">New, class A medical office building to be completed and ready for tenant move in January 2020. 
+Located directly across the street from...</span></div>
+
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Lease</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$3.33 /SF/Mo</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Office/Medical</td>
+                  </tr>
+                  <tr>
+                    <td>Spaces:</td>
+                    <td>5 Spaces</td>
+                  </tr>
+                  <tr>
+                    <td>Space Available:</td>
+                    <td>0.06 - 2.23 AC</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>97,000 SF</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier3">
+<div class="listingPhoto"><a href="/Listing/5-Summit-Ave-Hackensack-NJ/15785818/" title="5 Summit Ave, Hackensack, NJ"><img src="https://images1.loopnet.com/i2/wE9swfh3sMmgaH9O2JFSTlAsUPVhMG-RAwvfdpSDqGo/106/image.jpg" alt="5 Summit Ave, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/5-Summit-Ave-Hackensack-NJ/15785818/" title="5 Summit Ave, Hackensack, NJ"><span class="listingTitle">5 Summit Ave</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription">Terrific brick medical office building. On the corner of a high traffic, high visibility intersection at Essex and Summit. One block from...</span></div>
+
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Lease</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$1.75 - $2.50 /SF/Mo</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Spaces:</td>
+                    <td>1 Space</td>
+                  </tr>
+                  <tr>
+                    <td>Space Available:</td>
+                    <td>0.01 - 0.09 AC</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>26,000 SF</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier3">
+<div class="listingPhoto"><a href="/Listing/190-Moore-St-Hackensack-NJ/15047068/" title="190 Moore St, Hackensack, NJ"><img src="https://images1.loopnet.com/i2/VJWSiaTIBZLObrfSv96EWmIwXgx962Kq_do_T71hZyA/106/image.jpg" alt="190 Moore St, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/190-Moore-St-Hackensack-NJ/15047068/" title="190 Moore St, Hackensack, NJ"><span class="listingTitle">190 Moore St</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription">Like big windows?  Nicely appointed professional offices.  You could move right in to this attractive space with a minimal of work needed.  The...</span></div>
+
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Lease</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$1.50 - $1.58 /SF/Mo</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Spaces:</td>
+                    <td>1 Space</td>
+                  </tr>
+                  <tr>
+                    <td>Space Available:</td>
+                    <td>0.07 AC</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>48,000 SF</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier4">
+<div class="listingPhoto"><a href="/Listing/290-Vincent-St-Hackensack-NJ/15762643/" title="290 Vincent St, Hackensack, NJ"><img src="https://images2.loopnet.com/i2/Y7wtLn1BXivAFjw4bi8VxrfIQtb4WNVGRh1dryP_kRw/106/image.jpg" alt="290 Vincent St, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/290-Vincent-St-Hackensack-NJ/15762643/" title="290 Vincent St, Hackensack, NJ"><span class="listingTitle">290 Vincent St</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription">Great Location with quick access to Route 17, Route 80, Route 46</span></div>
+
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Lease</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$1.58 /SF/Mo</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Spaces:</td>
+                    <td>1 Space</td>
+                  </tr>
+                  <tr>
+                    <td>Space Available:</td>
+                    <td>0.06 AC</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>10,000 SF</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier4">
+<div class="listingPhoto"><a href="/Listing/131-Main-St-Hackensack-NJ/15705248/" title="131 Main St, Hackensack, NJ"><img src="https://images2.loopnet.com/i2/DmolivnO4RsfpdAWyyrtkqpI7X3gIRMAYYU5iqLTTvc/106/image.jpg" alt="131 Main St, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/131-Main-St-Hackensack-NJ/15705248/" title="131 Main St, Hackensack, NJ"><span class="listingTitle">131 Main St</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription"></span></div>
+
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Lease</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$1.39 - $1.50 /SF/Mo</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Spaces:</td>
+                    <td>1 Space</td>
+                  </tr>
+                  <tr>
+                    <td>Space Available:</td>
+                    <td>0.03 AC</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>20,150 SF</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier4">
+<div class="listingPhoto"><a href="/Listing/180-Central-Ave-Hackensack-NJ/15669106/" title="180 Central Ave, Hackensack, NJ"><img src="https://images3.loopnet.com/i2/ofMUqhLHH3DTgyX6E9kF9LC5MGFc5SAlA_8sM9xcjo8/106/image.jpg" alt="180 Central Ave, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/180-Central-Ave-Hackensack-NJ/15669106/" title="180 Central Ave, Hackensack, NJ"><span class="listingTitle">180 Central Ave</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription"></span></div>
+
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Lease</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$1.04 /SF/Mo</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Industrial</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Industrial</td>
+                  </tr>
+                  <tr>
+                    <td>Spaces:</td>
+                    <td>1 Space</td>
+                  </tr>
+                  <tr>
+                    <td>Space Available:</td>
+                    <td>0.16 AC</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>10,000 SF</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier4">
+<div class="listingPhoto"><a href="/Listing/portfolio/15641762/" title="Portfolio of 2 Properties"><img src="https://images2.loopnet.com/i2/YATiG1qHiwWBgX2R-TJLJ53bSCAn1vEUUm4FYtUa97I/106/image.jpg" alt="Portfolio of 2 Properties" /></a></div>
+<div class="listingDescription"><a href="/Listing/portfolio/15641762/" title="Portfolio of 2 Properties"><span class="listingTitle">Portfolio of 2 Properties</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription">This is a sale of a medical office condominium at the Frontenac on the ground  floor.  There are two condos that are adjacent to one another yet...</span></div>
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Sale</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$900,000</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>6,253 SF</td>
+                  </tr>
+                  <tr></tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier4">
+<div class="listingPhoto"><a href="/Listing/140-Lawrence-St-Hackensack-NJ/15619321/" title="140 Lawrence St, Hackensack, NJ"><img src="https://images1.loopnet.com/i2/q1eyhrmXknaojDgT8FXErVCPXr3Q_AOHWF5u1icSy1o/106/image.jpg" alt="140 Lawrence St, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/140-Lawrence-St-Hackensack-NJ/15619321/" title="140 Lawrence St, Hackensack, NJ"><span class="listingTitle">140 Lawrence St</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription"></span></div>
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Sale</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$1,300,000</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Industrial</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Warehouse</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>7,860 SF</td>
+                  </tr>
+                  <tr>
+                    <td>Building Class</td>
+                    <td>C</td>
+                  </tr>
+                  <tr>
+                    <td>Lot Size:</td>
+                    <td>0.25 AC</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier4">
+<div class="listingPhoto"><a href="/Listing/55-State-St-Hackensack-NJ/15567565/" title="55 State St, Hackensack, NJ"><img src="https://images4.loopnet.com/i2/4uV6s6xXU1DQKj6Te0lOV2gWZPFoNUjnQFmKJhc3uxY/106/image.jpg" alt="55 State St, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/55-State-St-Hackensack-NJ/15567565/" title="55 State St, Hackensack, NJ"><span class="listingTitle">55 State St</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription"></span></div>
+
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Lease</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$1.83 /SF/Mo</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Spaces:</td>
+                    <td>1 Space</td>
+                  </tr>
+                  <tr>
+                    <td>Space Available:</td>
+                    <td>0.10 AC</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>9,700 SF</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier4">
+<div class="listingPhoto"><a href="/Listing/105-111-S-State-St-Hackensack-NJ/15556223/" title="105-111 S State St, Hackensack, NJ"><img src="https://images1.loopnet.com/i2/k81DnzfUqNvA66lDik5Qp2wZZSe5acqMqh8WOYojD7Y/106/image.jpg" alt="105-111 S State St, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/105-111-S-State-St-Hackensack-NJ/15556223/" title="105-111 S State St, Hackensack, NJ"><span class="listingTitle">105-111 S State St</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription">• Total building size: 19,500 sf
+• 2,000± sf Office
+• Ceiling height: 20’ clear
+• One (1) drive-in (12’w x 14’h)
+• One (1) tailgate
+• Former...</span></div>
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Sale</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$2,500,000</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Industrial</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Warehouse</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>19,385 SF</td>
+                  </tr>
+                  <tr>
+                    <td>Building Class</td>
+                    <td>B</td>
+                  </tr>
+                  <tr>
+                    <td>Lot Size:</td>
+                    <td>0.52 AC</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier4">
+<div class="listingPhoto"><a href="/Listing/265-Main-St-Hackensack-NJ/15547421/" title="265 Main St, Hackensack, NJ"><img src="/xnet/mainsite/images/placeholders/no-photo.svg" alt="265 Main St, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/265-Main-St-Hackensack-NJ/15547421/" title="265 Main St, Hackensack, NJ"><span class="listingTitle">265 Main St</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription">3,125 SF of Ground retail 
+300 SF of office on 2nd floor 
+Property includes full basement
+Great visibility. Located in the middle of town</span></div>
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Sale</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$949,000</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>General Retail</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Retail</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>3,425 SF</td>
+                  </tr>
+                  <tr>
+                    <td>Building Class</td>
+                    <td>C</td>
+                  </tr>
+                  <tr>
+                    <td>Lot Size:</td>
+                    <td>0.09 AC</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier4">
+<div class="listingPhoto"><a href="/Listing/265-Main-St-Hackensack-NJ/15547390/" title="265 Main St, Hackensack, NJ"><img src="/xnet/mainsite/images/placeholders/no-photo.svg" alt="265 Main St, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/265-Main-St-Hackensack-NJ/15547390/" title="265 Main St, Hackensack, NJ"><span class="listingTitle">265 Main St</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription"></span></div>
+
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Lease</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$1.00 /SF/Mo</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>General Retail</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Office, Retail</td>
+                  </tr>
+                  <tr>
+                    <td>Spaces:</td>
+                    <td>2 Spaces</td>
+                  </tr>
+                  <tr>
+                    <td>Space Available:</td>
+                    <td>0.01 - 0.08 AC</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>3,425 SF</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier4">
+<div class="listingPhoto"><a href="/Listing/140-Prospect-Ave-Hackensack-NJ/15477897/" title="140 Prospect Ave, Hackensack, NJ"><img src="https://images1.loopnet.com/i2/yCF18oH1iPp47BJWZ89--hssowPYtG4pwgj6xWf8czU/106/image.jpg" alt="140 Prospect Ave, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/140-Prospect-Ave-Hackensack-NJ/15477897/" title="140 Prospect Ave, Hackensack, NJ"><span class="listingTitle">140 Prospect Ave</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription"></span></div>
+
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Lease</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$2.25 /SF/Mo</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Multifamily</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Office/Medical</td>
+                  </tr>
+                  <tr>
+                    <td>Spaces:</td>
+                    <td>4 Spaces</td>
+                  </tr>
+                  <tr>
+                    <td>Space Available:</td>
+                    <td>0.02 - 0.18 AC</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>431,600 SF</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier4">
+<div class="listingPhoto"><a href="/Listing/132-South-St-Hackensack-NJ/15476524/" title="132 South St, Hackensack, NJ"><img src="https://images1.loopnet.com/i2/xWe5INs6-uS3Y9DP4FS4SkBnjycGS3_QN0P_u58jFR0/106/image.jpg" alt="132 South St, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/132-South-St-Hackensack-NJ/15476524/" title="132 South St, Hackensack, NJ"><span class="listingTitle">132 South St</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription"></span></div>
+
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Lease</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$0.75 /SF/Mo</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Industrial</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Industrial</td>
+                  </tr>
+                  <tr>
+                    <td>Spaces:</td>
+                    <td>1 Space</td>
+                  </tr>
+                  <tr>
+                    <td>Space Available:</td>
+                    <td>0.14 AC</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>6,000 SF</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier4">
+<div class="listingPhoto"><a href="/Listing/117-Central-Ave-Hackensack-NJ/15475399/" title="117 Central Ave, Hackensack, NJ"><img src="https://images1.loopnet.com/i2/fhLh-RbFkRWJl--JaUOBi32bfJT6j6Lyezk1VAWVChQ/106/image.jpg" alt="117 Central Ave, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/117-Central-Ave-Hackensack-NJ/15475399/" title="117 Central Ave, Hackensack, NJ"><span class="listingTitle">117 Central Ave</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription">Excellent opportunity to be close to downtown and government offices without the hassle of traffic and parking.  Two onsite parking spots and...</span></div>
+
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Lease</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$1.42 /SF/Mo</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Spaces:</td>
+                    <td>3 Spaces</td>
+                  </tr>
+                  <tr>
+                    <td>Space Available:</td>
+                    <td>0.02 - 0.08 AC</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>3,750 SF</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier4">
+<div class="listingPhoto"><a href="/Listing/194-Passaic-St-Hackensack-NJ/15444075/" title="194 Passaic St, Hackensack, NJ"><img src="https://images1.loopnet.com/i2/XkoEmdn8inASNZIS1U26ZfkdUR0uN_pYV2kzsqnoDSM/106/image.jpg" alt="194 Passaic St, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/194-Passaic-St-Hackensack-NJ/15444075/" title="194 Passaic St, Hackensack, NJ"><span class="listingTitle">194 Passaic St</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription">Modern  Free-Standing Building Centrally located  near trains and trans. Total of 5,041 gross  sf . A  2 story Glass Foyer leading to the second...</span></div>
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Sale</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$865,000</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>5,041 SF</td>
+                  </tr>
+                  <tr>
+                    <td>Building Class</td>
+                    <td>B</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier4">
+<div class="listingPhoto"><a href="/Listing/160-South-St-Hackensack-NJ/15430441/" title="160 South St, Hackensack, NJ"><img src="https://images4.loopnet.com/i2/8EQLMETlXpc1qbc26mXW_CUXAy3p86NbDgm1YWK-r1o/106/image.jpg" alt="160 South St, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/160-South-St-Hackensack-NJ/15430441/" title="160 South St, Hackensack, NJ"><span class="listingTitle">160 South St</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription"></span></div>
+
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Lease</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$0.85 /SF/Mo</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Industrial</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Industrial</td>
+                  </tr>
+                  <tr>
+                    <td>Spaces:</td>
+                    <td>1 Space</td>
+                  </tr>
+                  <tr>
+                    <td>Space Available:</td>
+                    <td>0.15 AC</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>6,500 SF</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier4">
+<div class="listingPhoto"><a href="/Listing/952-Main-St-Hackensack-NJ/15420169/" title="952 Main St, Hackensack, NJ"><img src="https://images4.loopnet.com/i2/h5W8grrB6AeIBkKTHDh14nUscaNreB3JWBbe_MU_Sjk/106/image.jpg" alt="952 Main St, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/952-Main-St-Hackensack-NJ/15420169/" title="952 Main St, Hackensack, NJ"><span class="listingTitle">952 Main St</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription">Great location. Turn-key operation for Doctor or Dentist office. Six medical exam rooms. Two powder rooms. Located in the hub of Bergen county...</span></div>
+
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Lease</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$1.67 /SF/Mo</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Office/Medical</td>
+                  </tr>
+                  <tr>
+                    <td>Spaces:</td>
+                    <td>1 Space</td>
+                  </tr>
+                  <tr>
+                    <td>Space Available:</td>
+                    <td>0.05 AC</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>5,200 SF</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier4">
+<div class="listingPhoto"><a href="/Listing/194-Daniel-St-Hackensack-NJ/15414297/" title="194 Daniel St, Hackensack, NJ"><img src="https://images4.loopnet.com/i2/uqfBkUPcTUP_b69SQe-zOuE1YYOjNq2ALChMnai50dE/106/image.jpg" alt="194 Daniel St, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/194-Daniel-St-Hackensack-NJ/15414297/" title="194 Daniel St, Hackensack, NJ"><span class="listingTitle">194 Daniel St</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription">Excellent condition,Easy to access Rt 80,17,46.</span></div>
+
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Lease</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$0.83 /SF/Mo</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Industrial</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Industrial</td>
+                  </tr>
+                  <tr>
+                    <td>Spaces:</td>
+                    <td>1 Space</td>
+                  </tr>
+                  <tr>
+                    <td>Space Available:</td>
+                    <td>0.11 AC</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>5,000 SF</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier4">
+<div class="listingPhoto"><a href="/Listing/560-Hudson-St-Hackensack-NJ/15373953/" title="560 Hudson St, Hackensack, NJ"><img src="https://images2.loopnet.com/i2/YhNYpEO0jADC3U-6-ckaraCErz_p-bLT0PJlBD0KujU/106/image.jpg" alt="560 Hudson St, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/560-Hudson-St-Hackensack-NJ/15373953/" title="560 Hudson St, Hackensack, NJ"><span class="listingTitle">560 Hudson St</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription"></span></div>
+
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Lease</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$1.17 /SF/Mo</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Spaces:</td>
+                    <td>2 Spaces</td>
+                  </tr>
+                  <tr>
+                    <td>Space Available:</td>
+                    <td>0.02 - 0.05 AC</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>18,000 SF</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier4">
+<div class="listingPhoto"><a href="/Listing/540-Hudson-St-Hackensack-NJ/15373938/" title="540 Hudson St, Hackensack, NJ"><img src="https://images3.loopnet.com/i2/uzpRxJaL2EBJM-sDi3I1T1KtiUu9J14YxVxyLdCDelU/106/image.jpg" alt="540 Hudson St, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/540-Hudson-St-Hackensack-NJ/15373938/" title="540 Hudson St, Hackensack, NJ"><span class="listingTitle">540 Hudson St</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription"></span></div>
+
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Lease</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$1.33 /SF/Mo</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Office</td>
+                  </tr>
+                  <tr>
+                    <td>Spaces:</td>
+                    <td>1 Space</td>
+                  </tr>
+                  <tr>
+                    <td>Space Available:</td>
+                    <td>0.02 - 0.05 AC</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>36,000 SF</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier4">
+<div class="listingPhoto"><a href="/Listing/116-Essex-St-Hackensack-NJ/15342819/" title="116 Essex St, Hackensack, NJ"><img src="https://images1.loopnet.com/i2/Ydv2DpUAZjO8or3B_PH86NMFxytvcoHIpp_hn8y1gaE/106/image.jpg" alt="116 Essex St, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/116-Essex-St-Hackensack-NJ/15342819/" title="116 Essex St, Hackensack, NJ"><span class="listingTitle">116 Essex St</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription">Call and ask Julia at 201.679.5025 for these reports:
+A-  Architectural drawing that was submitted with the original application to be approved...</span></div>
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Sale</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$1,275,000</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Land</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Commercial</td>
+                  </tr>
+                  <tr>
+                    <td>Lot Size:</td>
+                    <td>0.51 AC</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier4">
+<div class="listingPhoto"><a href="/Listing/163-South-St-Hackensack-NJ/15328993/" title="163 South St, Hackensack, NJ"><img src="https://images2.loopnet.com/i2/fJyi7iSFxBBsFCAE5yBTAaabMiHFiV8T2D5bvRwgR2E/106/image.jpg" alt="163 South St, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/163-South-St-Hackensack-NJ/15328993/" title="163 South St, Hackensack, NJ"><span class="listingTitle">163 South St</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription">6,500 Sf. one story  warehouse available for lease , with  18' high ceiling, one loading dock, concrete floor, 2 bathrooms, 3,000 Sf. for  parking...</span></div>
+
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Lease</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$0.88 /SF/Mo</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>Industrial</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Industrial</td>
+                  </tr>
+                  <tr>
+                    <td>Spaces:</td>
+                    <td>1 Space</td>
+                  </tr>
+                  <tr>
+                    <td>Space Available:</td>
+                    <td>0.12 AC</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>5,100 SF</td>
+                  </tr>
+                </table>
+              </div>
+
+<div class="&#xA;        listingContainer clearfix tier4">
+<div class="listingPhoto"><a href="/Listing/146-Hudson-St-Hackensack-NJ/15314328/" title="146 Hudson St, Hackensack, NJ"><img src="https://images3.loopnet.com/i2/ahcmTwwUbTmid0avD-5L_C4_pqLjFLAbIhz3vIltppY/106/image.jpg" alt="146 Hudson St, Hackensack, NJ" /></a></div>
+<div class="listingDescription"><a href="/Listing/146-Hudson-St-Hackensack-NJ/15314328/" title="146 Hudson St, Hackensack, NJ"><span class="listingTitle">146 Hudson St</span></a><br><b>Hackensack,  New Jersey</b><br><span class="propertyDescription">Stand alone building good for office or retail with basement storage.
+Private onsite parking makes this the perfect location for small business...</span></div>
+<table class="listingAttributes">
+                  <tr>
+                    <td>
+          Status:
+        </td>
+                    <td>For Sale</td>
+                  </tr>
+                  <tr>
+                    <td>Price:</td>
+                    <td>$329,000</td>
+                  </tr>
+                  <tr>
+                    <td>Property Type:</td>
+                    <td>General Retail</td>
+                  </tr>
+                  <tr>
+                    <td>Sub-Type:</td>
+                    <td>Storefront</td>
+                  </tr>
+                  <tr>
+                    <td>Building Size:</td>
+                    <td>1,760 SF</td>
+                  </tr>
+                  <tr>
+                    <td>Building Class</td>
+                    <td>B</td>
+                  </tr>
+                  <tr>
+                    <td>Lot Size:</td>
+                    <td>0.07 AC</td>
+                  </tr>
+                </table>
+              </div>
+<div class="searchPaging"><a title="Previous" href="&#xA;              javascript:void(0)&#xA;            " class="&#xA;              button tiny primary caret-left&#xA;            "></a><span>Page:&nbsp;<strong class="">1</strong><a class="" href="/new-jersey/hackensack-commercial-real-estate/2/">2</a><a class="" href="/new-jersey/hackensack-commercial-real-estate/3/">3</a><a class="" href="/new-jersey/hackensack-commercial-real-estate/4/">4</a><a class="" href="/new-jersey/hackensack-commercial-real-estate/5/">5</a><a class="" href="/new-jersey/hackensack-commercial-real-estate/6/">6</a><a class="" href="/new-jersey/hackensack-commercial-real-estate/7/">7</a><a class="searchPagingBorderless" href="/new-jersey/hackensack-commercial-real-estate/8/">8</a></span><a title="Next" class="button tiny primary caret-right" href="/new-jersey/hackensack-commercial-real-estate/2/">
+          Next Page
+        </a></div>
+<div class="share-links-wrapper">
+                <p>Share this page on social networks:</p>
+                <div class="social-links clearfix"><a href="javascript:void(0);" class="ln-icon-facebook"></a><a href="javascript:void(0);" class="ln-icon-googleplus"></a><a href="javascript:void(0);" class="ln-icon-linkedin"></a><a href="javascript:void(0);" class="ln-icon-twitter"></a></div>
+              </div>
+              <div class="upsellBox2Container">
+                <div class="upsellBox2Top container primary highlight clearfix">
+                  <h2>See the Latest Hackensack Commercial Real Estate Listings:</h2>
+                  <p>Start a search to see ALL Hackensack Commercial listings for sale and lease.</p>
+                  <div class="subHeaderStyleButton"><a class="button large secondary" href="/xNet/MainSite/Listing/Search/default.aspx?LinkCode=21300">
+            Start a New Search
+          </a></div>
+                </div>
+                <div class="upsellBox2Content"><p><b>About LoopNet Hackensack Commercial Real Estate</b></p>
+
+<p>More brokers, property owners and other commercial real estate investors come to use LoopNet.com for selling and buying commercial real estate online.  This is what makes LoopNet the professional's choice for finding <b>Hackensack, New Jersey commercial real estate</b>.  LoopNet has a broad selection of properties for sale and the largest viewership of commercial real estate buyers, investors and other professionals.  To access all of the hundreds of thousands of commercial properties for sale and for lease in Hackensack and throughout the U.S. and <a href="/xnet/mainsite/SiteMap/International.aspx" title="International Commercial Real Estate">Internationally</a>, become a LoopNet member today.  LoopNet is also the best source online for finding <a href="http://www.loopnet.com/land-for-sale/" title="Land for Sale">land for sale</a> for your commercial project.</p><p>LoopNet operates the most heavily trafficked listing service for Hackensack commercial real estate and other markets in the U.S. and Canada with more than $425 billion of total commercial real estate for sale and 5.1 billion sq. ft. of commercial real estate space for lease. LoopNet also attracts a large community of Hackensack commercial real estate professionals with more than 7 million members comprised of brokers, corporate executives, service providers, and more than 3 million buyers, tenants and other principals throughout the U.S. and Canada.</p><p>LoopNet's Hackensack commercial real estate listings include farms, multifamily apartments, office buildings, retail space, vacant land, hotels and motels, gas stations, warehouses, restaurants for lease and much more.</p>
+<p>
+See <b><a href="/New-Jersey-commercial-real-estate/" title="New Jersey Commercial Real Estate for Sale">New Jersey Commercial Real Estate for Sale</a></b>
+</p>
+<p>
+Find <b><a href="/sitemap/zip/" title="Commercial Real Estate by ZIP">Commercial Real Estate by ZIP Code</a></b>
+</p>
+</div>
+              </div>
+            </div>
+          </div>
+          <div class="browseBoxContainer">
+            <div class="seoBlueSideBar">
+              <div class="seoBlueSideBarHeader seoBlueSideBarSubHeader">
+                <h2>Popular Searches in Hackensack</h2>
+              </div>
+              <div class="seoBlueSideBarList clearfix">
+                <div class="propTypeList"><a title="Hackensack Office Space For Lease" class="hyperLink" href="/new-jersey/hackensack_office-space-for-lease/">Hackensack Office Space For Lease</a><br/><a title="Hackensack Retail Space For Lease" class="hyperLink" href="/new-jersey/hackensack_retail-space-for-lease/">Hackensack Retail Space For Lease</a><br/><a title="Hackensack Retail Space For Sale" class="hyperLink" href="/new-jersey/hackensack_retail-space-for-sale/">Hackensack Retail Space For Sale</a><br/><a title="Hackensack Industrial Properties For Lease" class="hyperLink" href="/new-jersey/hackensack_industrial-properties-for-lease/">Hackensack Industrial Properties For Lease</a><br/><a title="Hackensack Warehouses For Lease" class="hyperLink" href="/new-jersey/hackensack_warehouses-for-lease/">Hackensack Warehouses For Lease</a><br/><a title="Hackensack Office Space For Sale" class="hyperLink" href="/new-jersey/hackensack_office-space-for-sale/">Hackensack Office Space For Sale</a><br/><a title="Hackensack Storefront Properties For Lease" class="hyperLink" href="/new-jersey/hackensack_storefront-properties-for-lease/">Hackensack Storefront Properties For Lease</a><br/><a title="Hackensack Medical Offices For Lease" class="hyperLink" href="/new-jersey/hackensack_medical-offices-for-lease/">Hackensack Medical Offices For Lease</a><br/><a title="Hackensack Land For Sale" class="hyperLink" href="/new-jersey/hackensack_land-for-sale/">Hackensack Land For Sale</a><br/><a title="Hackensack Industrial Properties For Sale" class="hyperLink" href="/new-jersey/hackensack_industrial-properties-for-sale/">Hackensack Industrial Properties For Sale</a><br/><a title="Hackensack Warehouses For Sale" class="hyperLink" href="/new-jersey/hackensack_warehouses-for-sale/">Hackensack Warehouses For Sale</a><br/><a title="Hackensack Storefront Properties For Sale" class="hyperLink" href="/new-jersey/hackensack_storefront-properties-for-sale/">Hackensack Storefront Properties For Sale</a><br/><a title="Hackensack Flex Space For Lease" class="hyperLink" href="/new-jersey/hackensack_flex-space-for-lease/">Hackensack Flex Space For Lease</a><br/><a title="Hackensack Land For Lease" class="hyperLink" href="/new-jersey/hackensack_land-for-lease/">Hackensack Land For Lease</a><br/><a title="Hackensack Medical Offices For Sale" class="hyperLink" href="/new-jersey/hackensack_medical-offices-for-sale/">Hackensack Medical Offices For Sale</a><br/></div>
+              </div>
+              <div class="seoBlueSideBarHeader seoBlueSideBarSubHeader">
+                <h2>Popular Searches around Hackensack</h2>
+              </div>
+              <div class="seoBlueSideBarList clearfix">
+                <div class="propTypeList"><a title="Englewood Cliffs Office Space For Lease" class="hyperLink" href="/new-jersey/englewood-cliffs_office-space-for-lease/">Englewood Cliffs Office Space For Lease</a><br/><a title="Paramus Retail Space For Lease" class="hyperLink" href="/new-jersey/paramus_retail-space-for-lease/">Paramus Retail Space For Lease</a><br/><a title="Paramus Office Space For Lease" class="hyperLink" href="/new-jersey/paramus_office-space-for-lease/">Paramus Office Space For Lease</a><br/><a title="Carlstadt Industrial Properties For Lease" class="hyperLink" href="/new-jersey/carlstadt_industrial-properties-for-lease/">Carlstadt Industrial Properties For Lease</a><br/><a title="Englewood Office Space For Lease" class="hyperLink" href="/new-jersey/englewood_office-space-for-lease/">Englewood Office Space For Lease</a><br/><a title="Teaneck Office Space For Lease" class="hyperLink" href="/new-jersey/teaneck_office-space-for-lease/">Teaneck Office Space For Lease</a><br/><a title="Fort Lee Office Space For Lease" class="hyperLink" href="/new-jersey/fort-lee_office-space-for-lease/">Fort Lee Office Space For Lease</a><br/><a title="Carlstadt Warehouses For Lease" class="hyperLink" href="/new-jersey/carlstadt_warehouses-for-lease/">Carlstadt Warehouses For Lease</a><br/><a title="Englewood Retail Space For Lease" class="hyperLink" href="/new-jersey/englewood_retail-space-for-lease/">Englewood Retail Space For Lease</a><br/><a title="Montvale Office Space For Lease" class="hyperLink" href="/new-jersey/montvale_office-space-for-lease/">Montvale Office Space For Lease</a><br/><a title="Fair Lawn Office Space For Lease" class="hyperLink" href="/new-jersey/fair-lawn_office-space-for-lease/">Fair Lawn Office Space For Lease</a><br/><a title="Ridgewood Office Space For Lease" class="hyperLink" href="/new-jersey/ridgewood_office-space-for-lease/">Ridgewood Office Space For Lease</a><br/><a title="Ramsey Office Space For Lease" class="hyperLink" href="/new-jersey/ramsey_office-space-for-lease/">Ramsey Office Space For Lease</a><br/><a title="Moonachie Industrial Properties For Lease" class="hyperLink" href="/new-jersey/moonachie_industrial-properties-for-lease/">Moonachie Industrial Properties For Lease</a><br/><a title="Lodi Retail Space For Lease" class="hyperLink" href="/new-jersey/lodi_retail-space-for-lease/">Lodi Retail Space For Lease</a><br/><a title="Ridgewood Retail Space For Lease" class="hyperLink" href="/new-jersey/ridgewood_retail-space-for-lease/">Ridgewood Retail Space For Lease</a><br/><a title="Fair Lawn Medical Offices For Lease" class="hyperLink" href="/new-jersey/fair-lawn_medical-offices-for-lease/">Fair Lawn Medical Offices For Lease</a><br/><a title="Elmwood Park Office Space For Lease" class="hyperLink" href="/new-jersey/elmwood-park_office-space-for-lease/">Elmwood Park Office Space For Lease</a><br/><a title="Rochelle Park Office Space For Lease" class="hyperLink" href="/new-jersey/rochelle-park_office-space-for-lease/">Rochelle Park Office Space For Lease</a><br/><a title="Mahwah Office Space For Lease" class="hyperLink" href="/new-jersey/mahwah_office-space-for-lease/">Mahwah Office Space For Lease</a><br/><a title="Fair Lawn Retail Space For Lease" class="hyperLink" href="/new-jersey/fair-lawn_retail-space-for-lease/">Fair Lawn Retail Space For Lease</a><br/><a title="Fort Lee Retail Space For Lease" class="hyperLink" href="/new-jersey/fort-lee_retail-space-for-lease/">Fort Lee Retail Space For Lease</a><br/><a title="Fort Lee Retail Space For Sale" class="hyperLink" href="/new-jersey/fort-lee_retail-space-for-sale/">Fort Lee Retail Space For Sale</a><br/><a title="Ridgewood Storefront Properties For Lease" class="hyperLink" href="/new-jersey/ridgewood_storefront-properties-for-lease/">Ridgewood Storefront Properties For Lease</a><br/><a title="Moonachie Warehouses For Lease" class="hyperLink" href="/new-jersey/moonachie_warehouses-for-lease/">Moonachie Warehouses For Lease</a><br/><a title="Teaneck Retail Space For Lease" class="hyperLink" href="/new-jersey/teaneck_retail-space-for-lease/">Teaneck Retail Space For Lease</a><br/><a title="Palisades Park Retail Space For Sale" class="hyperLink" href="/new-jersey/palisades-park_retail-space-for-sale/">Palisades Park Retail Space For Sale</a><br/><a title="Rutherford Office Space For Lease" class="hyperLink" href="/new-jersey/rutherford_office-space-for-lease/">Rutherford Office Space For Lease</a><br/><a title="Ramsey Medical Offices For Lease" class="hyperLink" href="/new-jersey/ramsey_medical-offices-for-lease/">Ramsey Medical Offices For Lease</a><br/><a title="Englewood Industrial Properties For Lease" class="hyperLink" href="/new-jersey/englewood_industrial-properties-for-lease/">Englewood Industrial Properties For Lease</a><br/><a title="Saddle Brook Industrial Properties For Lease" class="hyperLink" href="/new-jersey/saddle-brook_industrial-properties-for-lease/">Saddle Brook Industrial Properties For Lease</a><br/><a title="Paramus Medical Offices For Lease" class="hyperLink" href="/new-jersey/paramus_medical-offices-for-lease/">Paramus Medical Offices For Lease</a><br/><a title="Oradell Office Space For Lease" class="hyperLink" href="/new-jersey/oradell_office-space-for-lease/">Oradell Office Space For Lease</a><br/><a title="Westwood Office Space For Lease" class="hyperLink" href="/new-jersey/westwood_office-space-for-lease/">Westwood Office Space For Lease</a><br/><a title="Ramsey Retail Space For Lease" class="hyperLink" href="/new-jersey/ramsey_retail-space-for-lease/">Ramsey Retail Space For Lease</a><br/><a title="Lodi Retail Space For Sale" class="hyperLink" href="/new-jersey/lodi_retail-space-for-sale/">Lodi Retail Space For Sale</a><br/><a title="Garfield Retail Space For Sale" class="hyperLink" href="/new-jersey/garfield_retail-space-for-sale/">Garfield Retail Space For Sale</a><br/><a title="Paramus Storefront Properties For Lease" class="hyperLink" href="/new-jersey/paramus_storefront-properties-for-lease/">Paramus Storefront Properties For Lease</a><br/><a title="Englewood Storefront Properties For Lease" class="hyperLink" href="/new-jersey/englewood_storefront-properties-for-lease/">Englewood Storefront Properties For Lease</a><br/><a title="Fort Lee Storefront Properties For Lease" class="hyperLink" href="/new-jersey/fort-lee_storefront-properties-for-lease/">Fort Lee Storefront Properties For Lease</a><br/><a title="Palisades Park Storefront Properties For Sale" class="hyperLink" href="/new-jersey/palisades-park_storefront-properties-for-sale/">Palisades Park Storefront Properties For Sale</a><br/><a title="Palisades Park Retail Space For Lease" class="hyperLink" href="/new-jersey/palisades-park_retail-space-for-lease/">Palisades Park Retail Space For Lease</a><br/><a title="Westwood Retail Space For Lease" class="hyperLink" href="/new-jersey/westwood_retail-space-for-lease/">Westwood Retail Space For Lease</a><br/><a title="Garfield Retail Space For Lease" class="hyperLink" href="/new-jersey/garfield_retail-space-for-lease/">Garfield Retail Space For Lease</a><br/><a title="Saddle Brook Retail Space For Lease" class="hyperLink" href="/new-jersey/saddle-brook_retail-space-for-lease/">Saddle Brook Retail Space For Lease</a><br/><a title="Fair Lawn Retail Space For Sale" class="hyperLink" href="/new-jersey/fair-lawn_retail-space-for-sale/">Fair Lawn Retail Space For Sale</a><br/><a title="Lyndhurst Office Space For Lease" class="hyperLink" href="/new-jersey/lyndhurst_office-space-for-lease/">Lyndhurst Office Space For Lease</a><br/><a title="Bergenfield Office Space For Lease" class="hyperLink" href="/new-jersey/bergenfield_office-space-for-lease/">Bergenfield Office Space For Lease</a><br/><a title="River Edge Office Space For Lease" class="hyperLink" href="/new-jersey/river-edge_office-space-for-lease/">River Edge Office Space For Lease</a><br/><a title="Englewood Medical Offices For Lease" class="hyperLink" href="/new-jersey/englewood_medical-offices-for-lease/">Englewood Medical Offices For Lease</a><br/><a title="East Rutherford Industrial Properties For Lease" class="hyperLink" href="/new-jersey/east-rutherford_industrial-properties-for-lease/">East Rutherford Industrial Properties For Lease</a><br/><a title="Fair Lawn Industrial Properties For Lease" class="hyperLink" href="/new-jersey/fair-lawn_industrial-properties-for-lease/">Fair Lawn Industrial Properties For Lease</a><br/><a title="Northvale Industrial Properties For Lease" class="hyperLink" href="/new-jersey/northvale_industrial-properties-for-lease/">Northvale Industrial Properties For Lease</a><br/><a title="Lodi Industrial Properties For Lease" class="hyperLink" href="/new-jersey/lodi_industrial-properties-for-lease/">Lodi Industrial Properties For Lease</a><br/><a title="Mahwah Land For Sale" class="hyperLink" href="/new-jersey/mahwah_land-for-sale/">Mahwah Land For Sale</a><br/><a title="Ridgefield Park Office Space For Lease" class="hyperLink" href="/new-jersey/ridgefield-park_office-space-for-lease/">Ridgefield Park Office Space For Lease</a><br/><a title="Saddle Brook Office Space For Lease" class="hyperLink" href="/new-jersey/saddle-brook_office-space-for-lease/">Saddle Brook Office Space For Lease</a><br/><a title="Hasbrouck Heights Office Space For Lease" class="hyperLink" href="/new-jersey/hasbrouck-heights_office-space-for-lease/">Hasbrouck Heights Office Space For Lease</a><br/><a title="Park Ridge Office Space For Lease" class="hyperLink" href="/new-jersey/park-ridge_office-space-for-lease/">Park Ridge Office Space For Lease</a><br/><a title="Woodcliff Lake Office Space For Lease" class="hyperLink" href="/new-jersey/woodcliff-lake_office-space-for-lease/">Woodcliff Lake Office Space For Lease</a><br/><a title="Ridgefield Office Space For Sale" class="hyperLink" href="/new-jersey/ridgefield_office-space-for-sale/">Ridgefield Office Space For Sale</a><br/><a title="Fort Lee Office Space For Sale" class="hyperLink" href="/new-jersey/fort-lee_office-space-for-sale/">Fort Lee Office Space For Sale</a><br/><a title="Midland Park Retail Space For Lease" class="hyperLink" href="/new-jersey/midland-park_retail-space-for-lease/">Midland Park Retail Space For Lease</a><br/><a title="Bergenfield Retail Space For Lease" class="hyperLink" href="/new-jersey/bergenfield_retail-space-for-lease/">Bergenfield Retail Space For Lease</a><br/><a title="Palisades Park Storefront Properties For Lease" class="hyperLink" href="/new-jersey/palisades-park_storefront-properties-for-lease/">Palisades Park Storefront Properties For Lease</a><br/><a title="Fair Lawn Warehouses For Lease" class="hyperLink" href="/new-jersey/fair-lawn_warehouses-for-lease/">Fair Lawn Warehouses For Lease</a><br/><a title="Northvale Warehouses For Lease" class="hyperLink" href="/new-jersey/northvale_warehouses-for-lease/">Northvale Warehouses For Lease</a><br/><a title="Englewood Warehouses For Lease" class="hyperLink" href="/new-jersey/englewood_warehouses-for-lease/">Englewood Warehouses For Lease</a><br/><a title="Lodi Warehouses For Lease" class="hyperLink" href="/new-jersey/lodi_warehouses-for-lease/">Lodi Warehouses For Lease</a><br/><a title="Lyndhurst Warehouses For Lease" class="hyperLink" href="/new-jersey/lyndhurst_warehouses-for-lease/">Lyndhurst Warehouses For Lease</a><br/><a title="Saddle Brook Warehouses For Lease" class="hyperLink" href="/new-jersey/saddle-brook_warehouses-for-lease/">Saddle Brook Warehouses For Lease</a><br/><a title="Teterboro Warehouses For Lease" class="hyperLink" href="/new-jersey/teterboro_warehouses-for-lease/">Teterboro Warehouses For Lease</a><br/><a title="Teaneck Storefront Properties For Lease" class="hyperLink" href="/new-jersey/teaneck_storefront-properties-for-lease/">Teaneck Storefront Properties For Lease</a><br/><a title="East Rutherford Retail Space For Lease" class="hyperLink" href="/new-jersey/east-rutherford_retail-space-for-lease/">East Rutherford Retail Space For Lease</a><br/><a title="Waldwick Retail Space For Lease" class="hyperLink" href="/new-jersey/waldwick_retail-space-for-lease/">Waldwick Retail Space For Lease</a><br/><a title="Rochelle Park Retail Space For Lease" class="hyperLink" href="/new-jersey/rochelle-park_retail-space-for-lease/">Rochelle Park Retail Space For Lease</a><br/><a title="Paramus Retail Space For Sale" class="hyperLink" href="/new-jersey/paramus_retail-space-for-sale/">Paramus Retail Space For Sale</a><br/><a title="Elmwood Park Retail Space For Sale" class="hyperLink" href="/new-jersey/elmwood-park_retail-space-for-sale/">Elmwood Park Retail Space For Sale</a><br/><a title="Lyndhurst Retail Space For Sale" class="hyperLink" href="/new-jersey/lyndhurst_retail-space-for-sale/">Lyndhurst Retail Space For Sale</a><br/><a title="Bergenfield Retail Space For Sale" class="hyperLink" href="/new-jersey/bergenfield_retail-space-for-sale/">Bergenfield Retail Space For Sale</a><br/><a title="Hasbrouck Heights Retail Space For Lease" class="hyperLink" href="/new-jersey/hasbrouck-heights_retail-space-for-lease/">Hasbrouck Heights Retail Space For Lease</a><br/><a title="East Rutherford Office Space For Lease" class="hyperLink" href="/new-jersey/east-rutherford_office-space-for-lease/">East Rutherford Office Space For Lease</a><br/><a title="Glen Rock Office Space For Lease" class="hyperLink" href="/new-jersey/glen-rock_office-space-for-lease/">Glen Rock Office Space For Lease</a><br/><a title="Emerson Office Space For Lease" class="hyperLink" href="/new-jersey/emerson_office-space-for-lease/">Emerson Office Space For Lease</a><br/><a title="Englewood Office Space For Sale" class="hyperLink" href="/new-jersey/englewood_office-space-for-sale/">Englewood Office Space For Sale</a><br/><a title="Westwood Medical Offices For Lease" class="hyperLink" href="/new-jersey/westwood_medical-offices-for-lease/">Westwood Medical Offices For Lease</a><br/><a title="Oakland Industrial Properties For Lease" class="hyperLink" href="/new-jersey/oakland_industrial-properties-for-lease/">Oakland Industrial Properties For Lease</a><br/></div>
+              </div>
+              <div class="seoBlueSideBarHeader seoBlueSideBarSubHeader">
+                <h2>View Hackensack Commercial Real Estate  Recently Sold or Previously Listed</h2>
+              </div>
+              <div class="seoBlueSideBarList clearfix">
+                <p>Search for sold, leased or off-market Hackensack properties:<br/><br/><a href="/New-Jersey/Hackensack-Sold-Commercial-Real-Estate/" title="Hackensack Off-Market Listings">Hackensack Off-Market Listings</a></p>
+              </div>
+              <div class="seoBlueSideBarHeader seoBlueSideBarSubHeader">
+                <h2>Hackensack Commercial Real Estate Brokers</h2>
+              </div>
+              <div class="seoBlueSideBarList clearfix">
+                <p><a href="/commercial-real-estate-brokers/NJ/Hackensack/" title="Find a Hackensack Commercial Real Estate Broker" >Find a Hackensack Commercial Real Estate Broker</a></p>
+              </div>
+            </div>
+            <div class="seodynamic">
+              <div class="targetedAd"><div id="local-rightrail" style="width: 132; height: 650"><script>googletag.display('local-rightrail');</script></div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+<!-- Start Footer -->
+
+<footer class="desktop clearfix">
+<style type="text/css">
+    #universalFeedbackMaster {
+        position: absolute;
+        z-index: 1000;
+        left: -30px;
+        width: 343px;
+    }
+    #universalFeedbackMaster .infoTip {
+        display: block;
+        position: relative;
+    }
+    #universalFeedback.infoTip {
+        padding: 16px;
+    }
+    .oldIE #universalFeedback.infoTip { padding:0;  }
+    .oldIE #universalFeedback .infoTipContent {
+        padding:16px;
+    }
+
+    #feedbackContainer {
+        padding: 0;
+        position: relative;
+    }
+    #feedbackContainer .button.close {
+        position: absolute;
+        right: -6px;
+        top: -6px;
+        font-family: Arial, sans-serif;
+        font-size: 20px;
+        color: #3765B7 !important;
+        font-weight: normal;
+        line-height: 13px;
+        padding: 2px 2px 1px;
+        margin: 0;
+    }
+    .oldIE #feedbackContainer .button.close {
+        right: 10px;
+        top: 10px;
+    }
+    #feedbackContainer h3 {
+        color: #000;
+        font: bold 16px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+    #feedbackContainer p {
+        color: #000;
+        font-size: 12px;
+    }
+    .feedbackIntro {
+        padding: 0 0 12px;
+    }
+    .feedbackRow {
+        padding: 0 0 6px;
+    }
+    .feedbacklabel {
+        float: left;
+        margin: 5px 0 0;
+        width: 44px;
+        font-size: 12px;
+        color: #000;
+    }
+    .feedbackinput {
+        width: 250px !important;
+        height: 16px !important;
+        font: 12px Arial, Helvetica, sans-serif;
+        float: right;
+        display: block;
+        border: 1px #bbb solid;
+        border-radius: 2px;
+        padding: 3px 5px;
+        -moz-box-shadow: inset 1px 1px 1px rgba(0,0,0,.08);
+        -webkit-box-shadow: inset 1px 1px 1px rgba(0,0,0,.08);
+        box-shadow: inset 1px 1px 1px rgba(0,0,0,.08);
+    }
+    #feedbackTextBox {
+        margin: 3px 0 0 0;
+        width: 297px !important;
+        height: 63px;
+        color: #666;
+        font: 12px Arial, Helvetica, sans-serif;
+        display: block;
+        border: 1px #bbb solid;
+        border-radius: 2px;
+        padding: 5px;
+        -moz-box-shadow: inset 0 1px 1px rgba(0,0,0,.08);
+        -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.08);
+        box-shadow: inset 0 1px 1px rgba(0,0,0,.08);
+    }
+    #feedbackContainer a.button {
+        color: #fff;
+        float: left;
+        margin-right: 12px;
+    }
+    .feedbackFooter {
+        padding: 6px 0 0;
+    }
+    .infoTip p.feedbackPolicy {
+        font: 11px Arial, Helvetica, sans-serif !important;
+        margin: 2px 0 0;
+        padding: 0;
+    }
+    .feedbackPolicy a {
+        color: #3765B7 !important;
+    }
+</style>
+
+
+  <div class="footer-first-line">
+    <div class="footer-logo">
+        <a href="https://www.loopnet.com/" title="Commercial Real Estate"><img src="/xNet/MainSite/Images/logos/loopnet/logo-loopnet-white.svg"/></a>
+    </div>
+    <div class="footer-menu">
+	    <ul>
+        <li><a href="https://marketing.loopnet.com/about-us" title="About LoopNet Commercial Real Estate" rel="nofollow">About Us</a></li>
+		    <li><a href="https://marketing.loopnet.com/contact-us" title="Contact LoopNet Client Services" rel="nofollow">Contact Us</a></li>
+        <li><a href="https://www.loopnet.com/for-sale/" title="Commercial Real Estate for Sale" rel="nofollow">Search</a></li>
+        <li><a href="https://www.loopnet.com/brokerdirectory/" title="Find a Commercial Real Estate Broker" rel="nofollow">Find a Broker</a></li>
+        <li><a href="https://marketing.loopnet.com/products/" title="LoopNet's Product and Service Offerings" rel="nofollow">Product Overview</a></li>
+	      <li><a href="https://marketing.loopnet.com/native-mobile-app/" title="Commercial Real Estate Mobile Apps" rel="nofollow">Mobile</a></li>
+        <li><a href="https://marketing.loopnet.com/terms-and-conditions/" title="LoopNet Terms of Use" rel="nofollow">Terms of Use</a></li>
+        <li><a href="https://marketing.loopnet.com/privacy/" title="LoopNet Privacy Policy" rel="nofollow">Privacy Policy</a></li>
+	    </ul>
+    </div>
+    <div class="footer-social social-links clearfix">
+      <p>Connect with us</p>
+      <div>
+        <a href="https://facebook.com/loopnet" class="ln-icon-facebook" target="_blank" track-click="2429" rel="nofollow"></a>
+        <a href="https://plus.google.com/+loopnet" class="ln-icon-googleplus" target="_blank" track-click="2430" rel="nofollow"></a>
+        <a href="https://linkedin.com/company/loopnet" class="ln-icon-linkedin" target="_blank" track-click="2431" rel="nofollow"></a>
+        <a href="https://twitter.com/loopnet" class="ln-icon-twitter" target="_blank" track-click="2432" rel="nofollow"></a>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-second-line"><p>&copy;2018 CoStar Group, Inc.</p></div>
+
+
+</footer>
+
+
+<!-- BEGIN MOBILE FOOTER -->
+
+<footer class="mobile">
+    <div class="footer-column">
+	  <ul class="first">
+		<!--<li class="contactUsFooter">
+		  <style type="text/css">
+        #universalFeedbackMaster {
+            position: absolute;
+            z-index: 1000;
+            left: -30px;
+            width: 343px;
+        }
+        #universalFeedbackMaster .infoTip {
+            display: block;
+            position: relative;
+        }
+        #universalFeedback.infoTip {
+            padding: 16px;
+        }
+        .oldIE #universalFeedback.infoTip { padding:0;  }
+        .oldIE #universalFeedback .infoTipContent {
+            padding:16px;
+        }
+
+        #feedbackContainer {
+            padding: 0;
+            position: relative;
+        }
+        #feedbackContainer .button.close {
+            position: absolute;
+            right: -6px;
+            top: -6px;
+            font-family: Arial, sans-serif;
+            font-size: 20px;
+            color: #3765B7 !important;
+            font-weight: normal;
+            line-height: 13px;
+            padding: 2px 2px 1px;
+            margin: 0;
+        }
+        .oldIE #feedbackContainer .button.close {
+            right: 10px;
+            top: 10px;
+        }
+        #feedbackContainer h3 {
+            color: #000;
+            font: bold 16px "Helvetica Neue", Helvetica, Arial, sans-serif;
+        }
+        #feedbackContainer p {
+            color: #000;
+            font-size: 12px;
+        }
+        .feedbackIntro {
+            padding: 0 0 12px;
+        }
+        .feedbackRow {
+            padding: 0 0 6px;
+        }
+        .feedbacklabel {
+            float: left;
+            margin: 5px 0 0;
+            width: 44px;
+            font-size: 12px;
+            color: #000;
+        }
+        .feedbackinput {
+            width: 250px !important;
+            height: 16px !important;
+            font: 12px Arial, Helvetica, sans-serif;
+            float: right;
+            display: block;
+            border: 1px #bbb solid;
+            border-radius: 2px;
+            padding: 3px 5px;
+            -moz-box-shadow: inset 1px 1px 1px rgba(0,0,0,.08);
+            -webkit-box-shadow: inset 1px 1px 1px rgba(0,0,0,.08);
+            box-shadow: inset 1px 1px 1px rgba(0,0,0,.08);
+        }
+        #feedbackTextBox {
+            margin: 3px 0 0 0;
+            width: 297px !important;
+            height: 63px;
+            color: #666;
+            font: 12px Arial, Helvetica, sans-serif;
+            display: block;
+            border: 1px #bbb solid;
+            border-radius: 2px;
+            padding: 5px;
+            -moz-box-shadow: inset 0 1px 1px rgba(0,0,0,.08);
+            -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.08);
+            box-shadow: inset 0 1px 1px rgba(0,0,0,.08);
+        }
+        #feedbackContainer a.button {
+            color: #fff;
+            float: left;
+            margin-right: 12px;
+        }
+        .feedbackFooter {
+            padding: 6px 0 0;
+        }
+        .infoTip p.feedbackPolicy {
+            font: 11px Arial, Helvetica, sans-serif !important;
+            margin: 2px 0 0;
+            padding: 0;
+        }
+        .feedbackPolicy a {
+            color: #3765B7 !important;
+        }
+    </style>
+
+  <script type="text/javascript" src="http://www.loopnet.com/xnet/mainsite/scripts/remoteuniversalfeedback.js"></script>
+  <script type="text/javascript">var oUniversalFeedbackData = new UniversalFeedBackEmail('REMOTESCRIPTING');</script>
+				<div style="position:absolute;display:block;z-index:1000; margin: -272px 0 0 5px; #margin: -272px 0 0 -5px;">
+					<div id="universalFeedbackMaster" style="display:none;position:relative">
+						<div id="universalFeedback" class="infoTip" style="display: block;">
+              <span id="infoTipHooks" class="hook-bottom hook-left"><em></em></span>
+							<div id="feedbackContainer" class="infoTipContent">
+								<h3>Contact Us</h3>
+								<a href="javascript:closeFeedback();" title="Close Window" class="closeButton"></a>
+								<p>Call us at <strong>(888) 567-7442</strong> or send us a message using the form below.</p>
+								<div class="feedbackRow clearfix">
+                  <span class="feedbacklabel">Name:</span></td>
+									<input id="SenderName" type="text" maxlength="100" class="feedbackinput" value="" />
+                </div>
+								<div class="feedbackRow clearfix">
+                  <span class="feedbacklabel">Email:</span></td>
+									<input id="SenderEmail" type="text" maxlength="100" class="feedbackinput" value="" />
+                </div>
+								<div class="feedbackRow clearfix">
+                  <textarea id="feedbackTextBox" cols="22" rows="3"
+                        onfocus="clickclear(this, 'Provide your feedback here.')"
+                        onblur="clickrecall(this, 'Provide your feedback here.', 'cdd1e5')" placeholder="Comments"></textarea>
+								</div>
+                <div class="feedbackFooter clearfix">
+								  <a href="javascript:sendFeedback();" title="Submit" class="button primary medium">Submit</a>
+                  <p class="feedbackPolicy">We will NOT share your email address.<br><a href="https://www.loopnet.com/xNet/MainSite/Marketing/About/Privacy.aspx?LinkCode=830" style="font-family:Arial, Helvetica, sans-serif; text-decoration:underline;" title="View Our Privacy Policy">View Our Privacy Policy</a></p>
+                </div>
+							</div>
+						</div>
+					</div>
+		</div><span id="divSuggestionAnchorElement"><a href="javascript:openFeedback(this);" id="Bottom1_SuggestionAnchorElement" title="Help us make LoopNet better. Tell us what you think!" rel="nofollow"><span class="contact-link">Contact Us</span></a></span></li>-->
+        <li><a href="https://marketing.loopnet.com/about-us/" title="About LoopNet Commercial Real Estate" rel="nofollow">About Us</a></li>
+		    <li><a href="https://www.loopnet.com/xNet/MainSite/Marketing/Contact/?LinkCode=31854" title="Contact LoopNet Client Services" rel="nofollow">Contact Us</a></li>
+        <li><a href="https://www.loopnet.com/for-sale/" title="Commercial Real Estate for Sale" rel="nofollow">Search</a></li>
+        <li><a href="https://www.loopnet.com/brokerdirectory/" title="Find a Commercial Real Estate Broker" rel="nofollow">Find a Broker</a></li>
+        <li><a href="https://marketing.loopnet.com/products/" title="LoopNet's Product and Service Offerings" rel="nofollow">Product Overview</a></li>
+	      <li><a href="https://marketing.loopnet.com/native-mobile-app/" title="Commercial Real Estate Mobile Apps" rel="nofollow">Mobile</a></li>
+        <li><a href="https://marketing.loopnet.com/terms-and-conditions/" title="LoopNet Terms of Use" rel="nofollow">Terms of Use</a></li>
+        <li><a href="https://www.loopnet.com/xNet/MainSite/Marketing/About/Privacy.aspx?LinkCode=31860" title="LoopNet Privacy Policy" rel="nofollow">Privacy Policy</a></li>
+	  </ul>
+    </div>
+    <div class="footer-column last">
+      <p><a href="http://loopnet.com" title="Commercial Real Estate"><img src="/xNet/MainSite/Images/logos/loopnet/logo-loopnet-white.svg"/></a></p>
+      <p>Connect with us</p>
+      <div class="social-links clearfix">
+        <a href="http://facebook.com/loopnet" class="ln-icon-facebook" target="_blank" track-click="2429" rel="nofollow"></a>
+        <a href="http://plus.google.com/+loopnet" class="ln-icon-googleplus" target="_blank" track-click="2430" rel="nofollow"></a>
+        <a href="http://linkedin.com/company/loopnet" class="ln-icon-linkedin" target="_blank" track-click="2431" rel="nofollow"></a>
+        <a href="http://twitter.com/loopnet" class="ln-icon-twitter" target="_blank" track-click="2432" rel="nofollow"></a>
+      </div>
+      <p>&copy;2018 CoStar Group, Inc.</p>
+</div>
+</footer>
+
+<!-- End Footer -->
+
+
+
+    <div id="LowerRightCornerDiv"></div>
+    
+  
+</form>
+<script type="text/javascript">
+          jQuery.noConflict();
+          jQuery(document).ready(function($) {
+            var flashtalking = '';
+            if (flashtalking) $('body').append(flashtalking);
+			});
+			LNSEO.Breadcrumb.init({ propertyType: "All Property Types", countryCode: "US", stateProv: "New Jersey", county: "", city: "Hackensack", listingTypeFlag: 3 });
+		</script>
+</body>
+</html>
